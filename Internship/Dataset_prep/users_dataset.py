@@ -1,0 +1,42 @@
+import random
+import pandas as pd
+
+activity_levels = ["Very Low", "Low", "Moderate", "High", "Very High"]
+home_types = ["Small Space", "Medium Space", "Large Space", "Rural"]
+grooming_preferences = ["Very Low", "Low", "Medium", "High", "Very High"]
+time_available = ["Full-time", "Part-time", "Limited", "Minimal"]
+experience_levels = ["First-time owner", "Experienced", "Expert"]
+preferred_dog_sizes = ["Small", "Medium", "Large"]
+
+time_activity_mapping = {
+    "Full-time": activity_levels,            # All levels allowed
+    "Part-time": activity_levels,           # All levels allowed
+    "Limited": ["Very Low", "Low", "Moderate"], # Limited to lower levels
+    "Minimal": ["Very Low", "Low"],         # Only very low and low
+}
+
+users = []
+for user_id in range(1, 1001):
+    time_avail = random.choice(time_available)
+    activity_level = random.choice(time_activity_mapping[time_avail])
+    home_type = random.choice(home_types)
+    grooming_pref = random.choice(grooming_preferences)
+    experience_level = random.choice(experience_levels)
+    preferred_size = random.choice(preferred_dog_sizes)
+
+    user = {
+        "user_id": user_id,
+        "activity_level": activity_level,
+        "home_type": home_type,
+        "grooming_preference": grooming_pref,
+        "time_available": time_avail,
+        "experience_level": experience_level,
+        "preferred_dog_size": preferred_size,
+    }
+    users.append(user)
+
+# Converting to a DataFrame for better visualization and saving
+user_df = pd.DataFrame(users)
+
+user_df.to_csv("users_dataset.csv", index=False) #to not include the row indices 0,1,2...
+print("User dataset created and saved to 'users_dataset.csv'")

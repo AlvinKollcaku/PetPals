@@ -1,0 +1,1001 @@
+user_id,activity_level,home_type,grooming_preference,time_available,experience_level,preferred_dog_size
+1,Low,Large Space,Very Low,Minimal,Expert,Large
+2,Moderate,Small Space,Very Low,Limited,Experienced,Medium
+3,Very Low,Large Space,Low,Minimal,Experienced,Small
+4,Moderate,Rural,Very Low,Full-time,First-time owner,Small
+5,Low,Rural,Very High,Limited,Expert,Medium
+6,Low,Rural,Very Low,Limited,Experienced,Small
+7,Very High,Small Space,Very Low,Full-time,Expert,Small
+8,Very High,Rural,Medium,Full-time,Experienced,Small
+9,Low,Small Space,Very Low,Minimal,First-time owner,Medium
+10,Low,Small Space,Very High,Limited,Experienced,Large
+11,Moderate,Small Space,High,Limited,First-time owner,Medium
+12,Very Low,Medium Space,Very Low,Part-time,First-time owner,Large
+13,Very High,Large Space,High,Full-time,Experienced,Small
+14,Low,Medium Space,Very Low,Limited,Expert,Large
+15,Very Low,Medium Space,Very High,Full-time,Experienced,Medium
+16,Very Low,Rural,Medium,Minimal,First-time owner,Large
+17,Very High,Small Space,Very High,Part-time,First-time owner,Large
+18,Very Low,Large Space,Medium,Limited,Expert,Small
+19,Moderate,Rural,High,Limited,Expert,Medium
+20,Low,Medium Space,Very Low,Limited,Expert,Large
+21,Low,Large Space,Medium,Limited,Expert,Medium
+22,Low,Rural,High,Limited,Experienced,Large
+23,Moderate,Large Space,Very High,Limited,First-time owner,Large
+24,Low,Large Space,Very Low,Full-time,Experienced,Medium
+25,Very Low,Medium Space,Medium,Full-time,Expert,Medium
+26,High,Large Space,Very High,Part-time,Experienced,Large
+27,Low,Medium Space,High,Minimal,Experienced,Large
+28,Very Low,Medium Space,High,Full-time,Experienced,Large
+29,Moderate,Large Space,Low,Part-time,Experienced,Small
+30,Very High,Medium Space,Medium,Full-time,Expert,Small
+31,Very Low,Large Space,Very Low,Full-time,Expert,Large
+32,Moderate,Large Space,High,Limited,Experienced,Small
+33,Very Low,Large Space,Medium,Limited,First-time owner,Large
+34,Very Low,Rural,Low,Limited,Expert,Medium
+35,Very Low,Small Space,Low,Minimal,First-time owner,Small
+36,Moderate,Small Space,Very High,Limited,First-time owner,Large
+37,Very High,Large Space,Very Low,Part-time,Experienced,Large
+38,High,Small Space,Medium,Full-time,Expert,Medium
+39,Low,Large Space,High,Minimal,Experienced,Medium
+40,Very Low,Small Space,Low,Minimal,Experienced,Small
+41,Very Low,Medium Space,Very Low,Part-time,First-time owner,Medium
+42,High,Medium Space,Very High,Part-time,First-time owner,Large
+43,Moderate,Medium Space,High,Full-time,First-time owner,Large
+44,Very High,Small Space,Medium,Full-time,First-time owner,Small
+45,Very High,Large Space,Medium,Part-time,Experienced,Small
+46,Very Low,Medium Space,High,Limited,First-time owner,Large
+47,Very Low,Large Space,Very High,Part-time,First-time owner,Medium
+48,Very Low,Small Space,Low,Full-time,First-time owner,Large
+49,Very Low,Rural,Very Low,Minimal,First-time owner,Large
+50,Low,Rural,High,Part-time,First-time owner,Small
+51,Moderate,Medium Space,High,Limited,First-time owner,Medium
+52,Very Low,Medium Space,Medium,Full-time,Expert,Medium
+53,Very High,Medium Space,High,Full-time,Experienced,Large
+54,Low,Medium Space,Low,Limited,First-time owner,Small
+55,Moderate,Medium Space,Low,Part-time,Expert,Medium
+56,Moderate,Medium Space,Very Low,Part-time,First-time owner,Large
+57,Very Low,Large Space,Medium,Minimal,Experienced,Small
+58,Moderate,Medium Space,Very Low,Full-time,Experienced,Large
+59,Low,Small Space,Very High,Part-time,First-time owner,Medium
+60,Very Low,Large Space,Low,Limited,Expert,Small
+61,Low,Small Space,Low,Minimal,Expert,Medium
+62,Very High,Small Space,Very High,Part-time,Expert,Large
+63,Very Low,Rural,Very Low,Full-time,First-time owner,Small
+64,Moderate,Rural,Medium,Limited,Expert,Large
+65,Very High,Medium Space,Very High,Part-time,Expert,Small
+66,Very Low,Small Space,Very Low,Full-time,Experienced,Small
+67,Low,Small Space,Low,Minimal,Experienced,Large
+68,Low,Small Space,Low,Minimal,Experienced,Large
+69,Very Low,Medium Space,Medium,Full-time,Experienced,Large
+70,Moderate,Small Space,Medium,Full-time,First-time owner,Small
+71,High,Large Space,Low,Full-time,Expert,Large
+72,Low,Rural,Low,Minimal,Experienced,Large
+73,Very Low,Rural,Very High,Limited,Experienced,Medium
+74,Moderate,Rural,Low,Limited,Experienced,Medium
+75,Very Low,Large Space,High,Minimal,Experienced,Large
+76,Very Low,Medium Space,Very Low,Minimal,First-time owner,Small
+77,Low,Small Space,Very Low,Part-time,Experienced,Large
+78,Very High,Rural,Very Low,Part-time,First-time owner,Small
+79,Very Low,Large Space,Very High,Minimal,Experienced,Small
+80,Moderate,Large Space,Medium,Full-time,First-time owner,Medium
+81,Low,Rural,Very Low,Limited,Expert,Small
+82,Very Low,Small Space,High,Limited,Experienced,Small
+83,Very Low,Rural,Low,Full-time,Expert,Large
+84,Very Low,Small Space,Low,Part-time,First-time owner,Large
+85,Low,Large Space,Very High,Minimal,First-time owner,Medium
+86,Moderate,Large Space,Very High,Limited,Experienced,Small
+87,Very Low,Small Space,Medium,Part-time,Experienced,Small
+88,Very High,Rural,Very High,Part-time,First-time owner,Large
+89,Very Low,Small Space,Very Low,Full-time,First-time owner,Medium
+90,Moderate,Small Space,High,Limited,Expert,Large
+91,Moderate,Rural,Very Low,Part-time,First-time owner,Small
+92,Moderate,Large Space,Low,Part-time,Expert,Large
+93,High,Medium Space,Medium,Part-time,Experienced,Large
+94,Very High,Small Space,Medium,Full-time,Expert,Small
+95,Very Low,Small Space,Very Low,Full-time,First-time owner,Medium
+96,Moderate,Small Space,Very Low,Limited,Experienced,Small
+97,Very Low,Rural,Low,Limited,Expert,Small
+98,Low,Medium Space,Low,Limited,Expert,Small
+99,Very Low,Rural,Low,Full-time,Expert,Small
+100,Low,Rural,Very Low,Full-time,Experienced,Medium
+101,Low,Rural,Very High,Part-time,Expert,Small
+102,Very High,Small Space,Very Low,Part-time,Experienced,Small
+103,Very Low,Large Space,Low,Limited,First-time owner,Large
+104,Very Low,Medium Space,Medium,Minimal,Experienced,Medium
+105,Moderate,Medium Space,High,Full-time,Experienced,Small
+106,Moderate,Large Space,High,Full-time,Experienced,Large
+107,Low,Rural,Low,Full-time,Expert,Medium
+108,Very High,Large Space,High,Part-time,First-time owner,Large
+109,High,Small Space,Low,Part-time,First-time owner,Small
+110,Very Low,Rural,Medium,Minimal,Experienced,Small
+111,Very Low,Rural,High,Minimal,Expert,Small
+112,Moderate,Small Space,Very High,Limited,Experienced,Large
+113,High,Rural,Very High,Part-time,Expert,Small
+114,Very Low,Small Space,Low,Full-time,First-time owner,Medium
+115,High,Large Space,Medium,Part-time,Expert,Medium
+116,Moderate,Small Space,Very Low,Limited,Expert,Large
+117,Moderate,Small Space,Very High,Part-time,Expert,Large
+118,Very Low,Large Space,Medium,Minimal,Expert,Small
+119,Very Low,Rural,Medium,Part-time,Expert,Medium
+120,Very High,Large Space,High,Part-time,Experienced,Small
+121,Very Low,Medium Space,Very Low,Minimal,Experienced,Small
+122,Low,Large Space,Very High,Limited,First-time owner,Small
+123,Very Low,Medium Space,High,Full-time,First-time owner,Medium
+124,High,Large Space,Medium,Full-time,First-time owner,Medium
+125,Low,Small Space,Very Low,Limited,Experienced,Medium
+126,Low,Small Space,High,Limited,Expert,Small
+127,Moderate,Medium Space,High,Limited,Experienced,Large
+128,Very Low,Medium Space,Medium,Part-time,First-time owner,Large
+129,Low,Small Space,Medium,Limited,Expert,Medium
+130,Very Low,Rural,Medium,Full-time,Experienced,Small
+131,Very Low,Medium Space,Very Low,Minimal,Expert,Medium
+132,Very High,Large Space,Very High,Full-time,First-time owner,Large
+133,Very High,Small Space,Very Low,Full-time,First-time owner,Small
+134,Very Low,Medium Space,Very High,Limited,Expert,Small
+135,Moderate,Medium Space,Very High,Limited,Experienced,Large
+136,Very Low,Small Space,High,Minimal,First-time owner,Medium
+137,Low,Medium Space,Very Low,Minimal,Expert,Large
+138,Moderate,Medium Space,Low,Full-time,Experienced,Small
+139,Very Low,Small Space,Medium,Limited,Expert,Small
+140,Very High,Small Space,Very Low,Part-time,Experienced,Small
+141,Very Low,Rural,Very High,Minimal,Experienced,Small
+142,Very Low,Large Space,High,Part-time,Experienced,Large
+143,Very High,Medium Space,Medium,Part-time,Experienced,Small
+144,Moderate,Small Space,Very Low,Part-time,Expert,Large
+145,Very Low,Large Space,Medium,Minimal,Expert,Medium
+146,Low,Rural,Very Low,Minimal,Experienced,Medium
+147,Very High,Medium Space,Medium,Full-time,Expert,Medium
+148,Very Low,Medium Space,High,Part-time,First-time owner,Large
+149,Very High,Medium Space,Very High,Part-time,First-time owner,Large
+150,Very Low,Small Space,Medium,Minimal,Expert,Small
+151,Low,Large Space,Very Low,Minimal,Expert,Medium
+152,Low,Small Space,Low,Part-time,First-time owner,Small
+153,Low,Large Space,High,Limited,Expert,Large
+154,Very Low,Large Space,High,Minimal,First-time owner,Small
+155,Very Low,Medium Space,Low,Minimal,First-time owner,Small
+156,Low,Medium Space,High,Minimal,First-time owner,Large
+157,Very Low,Medium Space,High,Limited,Experienced,Medium
+158,High,Rural,Very High,Full-time,First-time owner,Medium
+159,Very Low,Large Space,Medium,Part-time,Expert,Medium
+160,High,Medium Space,Medium,Full-time,Expert,Large
+161,Very Low,Small Space,High,Full-time,Expert,Medium
+162,Very Low,Large Space,Low,Full-time,First-time owner,Large
+163,Low,Medium Space,Medium,Limited,First-time owner,Large
+164,Moderate,Large Space,High,Limited,First-time owner,Medium
+165,Low,Medium Space,Very High,Minimal,Experienced,Medium
+166,Low,Medium Space,Low,Minimal,Expert,Small
+167,Very Low,Large Space,Low,Minimal,Expert,Small
+168,Very High,Large Space,High,Full-time,First-time owner,Large
+169,Very Low,Medium Space,Very Low,Limited,Expert,Medium
+170,High,Large Space,Very Low,Full-time,Experienced,Medium
+171,Very Low,Rural,Very High,Part-time,Expert,Medium
+172,Very Low,Medium Space,Very High,Part-time,Expert,Small
+173,Very Low,Small Space,Low,Minimal,Experienced,Large
+174,Very Low,Medium Space,High,Full-time,Experienced,Medium
+175,Very Low,Small Space,Medium,Minimal,Experienced,Large
+176,Moderate,Large Space,Low,Part-time,First-time owner,Large
+177,Low,Medium Space,Low,Limited,First-time owner,Small
+178,Moderate,Small Space,Very Low,Full-time,Experienced,Large
+179,Very Low,Large Space,High,Minimal,First-time owner,Large
+180,Low,Medium Space,High,Minimal,Expert,Small
+181,Low,Large Space,Very High,Part-time,First-time owner,Small
+182,Moderate,Rural,Low,Limited,Expert,Large
+183,Very High,Medium Space,Very Low,Full-time,Experienced,Small
+184,Moderate,Large Space,High,Limited,First-time owner,Medium
+185,Low,Rural,High,Minimal,Experienced,Medium
+186,Very Low,Medium Space,Medium,Full-time,Expert,Medium
+187,Moderate,Small Space,High,Part-time,Expert,Large
+188,Low,Rural,Very High,Limited,Experienced,Medium
+189,Very Low,Medium Space,Very Low,Minimal,Experienced,Medium
+190,Very Low,Large Space,Very High,Minimal,Experienced,Small
+191,Moderate,Small Space,Low,Full-time,Expert,Large
+192,Very High,Rural,High,Full-time,Expert,Large
+193,Very High,Rural,Very Low,Full-time,First-time owner,Small
+194,Moderate,Rural,High,Full-time,Expert,Medium
+195,Low,Rural,Very High,Full-time,Expert,Large
+196,Very Low,Small Space,Very Low,Limited,Experienced,Small
+197,High,Rural,Low,Full-time,First-time owner,Small
+198,Very Low,Large Space,Medium,Limited,Expert,Medium
+199,Very High,Small Space,Very High,Full-time,Experienced,Small
+200,Very High,Medium Space,Very High,Part-time,Experienced,Medium
+201,Low,Large Space,Very High,Minimal,Experienced,Large
+202,Very Low,Medium Space,Medium,Part-time,Experienced,Small
+203,Very Low,Large Space,Very High,Limited,First-time owner,Medium
+204,Very Low,Medium Space,Very High,Minimal,Expert,Medium
+205,Moderate,Rural,Very Low,Full-time,Experienced,Medium
+206,Low,Large Space,Medium,Full-time,First-time owner,Small
+207,Low,Rural,Very Low,Minimal,Expert,Large
+208,Very Low,Rural,Medium,Part-time,Expert,Small
+209,Very Low,Large Space,Very High,Limited,First-time owner,Medium
+210,Moderate,Large Space,Low,Limited,First-time owner,Small
+211,Moderate,Medium Space,Very Low,Limited,Expert,Small
+212,Low,Small Space,Very High,Minimal,First-time owner,Large
+213,Very High,Small Space,Medium,Part-time,Experienced,Medium
+214,Low,Rural,Very Low,Limited,Experienced,Large
+215,Low,Small Space,Medium,Minimal,Experienced,Medium
+216,Very Low,Rural,Low,Limited,Expert,Large
+217,Very Low,Rural,Very High,Limited,Experienced,Medium
+218,Very High,Small Space,Medium,Full-time,Expert,Small
+219,Very Low,Rural,Medium,Limited,First-time owner,Medium
+220,Low,Rural,Medium,Limited,First-time owner,Medium
+221,Very Low,Medium Space,Very Low,Minimal,First-time owner,Large
+222,Very Low,Small Space,Very Low,Minimal,Expert,Large
+223,Moderate,Small Space,High,Part-time,Expert,Large
+224,Low,Small Space,Low,Minimal,Expert,Medium
+225,Very Low,Small Space,Low,Limited,First-time owner,Small
+226,Very High,Rural,High,Full-time,Expert,Medium
+227,Low,Rural,High,Full-time,Experienced,Small
+228,Low,Medium Space,Low,Minimal,Experienced,Large
+229,Low,Small Space,Low,Minimal,Expert,Large
+230,Very High,Large Space,Very High,Full-time,First-time owner,Medium
+231,Low,Small Space,Very Low,Limited,First-time owner,Medium
+232,Moderate,Rural,Low,Limited,First-time owner,Large
+233,Low,Medium Space,Low,Part-time,Expert,Large
+234,Very Low,Rural,Very Low,Part-time,Experienced,Medium
+235,Very Low,Large Space,Low,Minimal,First-time owner,Large
+236,High,Small Space,High,Part-time,Expert,Medium
+237,Moderate,Rural,Medium,Limited,Experienced,Large
+238,Moderate,Small Space,Very High,Limited,Experienced,Large
+239,Low,Medium Space,Very High,Limited,Expert,Small
+240,Very Low,Small Space,Very Low,Limited,First-time owner,Large
+241,Very High,Rural,Medium,Part-time,First-time owner,Medium
+242,Moderate,Small Space,Low,Limited,First-time owner,Small
+243,Low,Medium Space,Medium,Full-time,Expert,Large
+244,Low,Rural,Medium,Part-time,Experienced,Small
+245,Very Low,Medium Space,Low,Limited,Expert,Medium
+246,Very High,Medium Space,Very High,Part-time,First-time owner,Small
+247,Low,Medium Space,Very Low,Full-time,Experienced,Large
+248,Low,Medium Space,Medium,Minimal,First-time owner,Small
+249,Very Low,Large Space,Low,Minimal,Expert,Medium
+250,Moderate,Medium Space,High,Limited,Expert,Small
+251,Low,Medium Space,Very High,Limited,Experienced,Medium
+252,High,Small Space,High,Part-time,Experienced,Large
+253,Very Low,Rural,Very High,Part-time,Experienced,Small
+254,Very Low,Large Space,Very High,Limited,First-time owner,Medium
+255,Very Low,Rural,High,Part-time,Experienced,Large
+256,Very High,Large Space,Medium,Full-time,Experienced,Large
+257,Very Low,Medium Space,Low,Limited,Expert,Large
+258,Moderate,Medium Space,Low,Full-time,Experienced,Small
+259,Very Low,Small Space,Very Low,Minimal,Expert,Medium
+260,Low,Large Space,High,Limited,First-time owner,Large
+261,Very Low,Rural,Low,Limited,Expert,Medium
+262,Very Low,Small Space,Very High,Minimal,First-time owner,Medium
+263,Low,Medium Space,Very Low,Part-time,Experienced,Large
+264,Moderate,Rural,Very Low,Limited,Experienced,Large
+265,Moderate,Large Space,High,Part-time,First-time owner,Large
+266,Very Low,Rural,Low,Limited,Experienced,Medium
+267,Very Low,Large Space,Medium,Limited,Experienced,Small
+268,Very High,Large Space,Medium,Part-time,Expert,Medium
+269,Low,Small Space,Low,Minimal,First-time owner,Large
+270,Very Low,Rural,Medium,Minimal,First-time owner,Medium
+271,Very Low,Medium Space,Very High,Minimal,First-time owner,Small
+272,Very Low,Medium Space,Very Low,Limited,Experienced,Large
+273,Moderate,Rural,Low,Limited,First-time owner,Medium
+274,Low,Medium Space,Medium,Full-time,First-time owner,Medium
+275,Low,Small Space,High,Minimal,Experienced,Small
+276,Very Low,Medium Space,Medium,Limited,First-time owner,Large
+277,Very Low,Large Space,Very High,Part-time,Experienced,Large
+278,Very Low,Medium Space,Very High,Full-time,Experienced,Small
+279,Low,Small Space,Low,Part-time,Experienced,Medium
+280,Very High,Large Space,Medium,Full-time,Expert,Small
+281,Moderate,Large Space,Very Low,Limited,First-time owner,Small
+282,Low,Medium Space,Very Low,Part-time,First-time owner,Large
+283,High,Medium Space,Medium,Part-time,Experienced,Medium
+284,Low,Small Space,Very High,Minimal,Expert,Medium
+285,Low,Small Space,High,Part-time,First-time owner,Small
+286,Very Low,Small Space,Low,Minimal,Expert,Small
+287,Very Low,Rural,Medium,Full-time,Expert,Medium
+288,Very Low,Small Space,Low,Limited,First-time owner,Medium
+289,Low,Small Space,High,Full-time,Expert,Small
+290,Very High,Medium Space,Medium,Full-time,Expert,Large
+291,Low,Large Space,Medium,Limited,Experienced,Large
+292,Very Low,Medium Space,Low,Minimal,Experienced,Medium
+293,Very Low,Rural,Very High,Minimal,Experienced,Medium
+294,Low,Medium Space,Very High,Minimal,Expert,Large
+295,Moderate,Medium Space,Medium,Limited,Experienced,Medium
+296,Moderate,Medium Space,High,Limited,First-time owner,Small
+297,Low,Medium Space,Medium,Full-time,Experienced,Small
+298,Low,Small Space,Very High,Minimal,Experienced,Small
+299,Low,Small Space,Low,Minimal,Expert,Medium
+300,Moderate,Large Space,Medium,Full-time,Expert,Small
+301,Moderate,Medium Space,Very High,Full-time,Experienced,Small
+302,Low,Rural,Very Low,Minimal,Experienced,Medium
+303,Moderate,Large Space,Medium,Limited,Expert,Small
+304,Low,Medium Space,Very Low,Limited,Expert,Small
+305,Very Low,Large Space,Very High,Part-time,First-time owner,Small
+306,High,Medium Space,Low,Part-time,Expert,Medium
+307,High,Large Space,Very Low,Part-time,Expert,Large
+308,Moderate,Large Space,High,Limited,First-time owner,Medium
+309,Low,Rural,High,Limited,Experienced,Medium
+310,Low,Rural,Medium,Minimal,Expert,Medium
+311,Very Low,Large Space,Very High,Limited,Experienced,Large
+312,Very Low,Small Space,Low,Minimal,Experienced,Small
+313,Low,Medium Space,Very Low,Full-time,Experienced,Small
+314,Moderate,Rural,Very High,Limited,Expert,Small
+315,Very Low,Large Space,Medium,Part-time,Experienced,Large
+316,Moderate,Rural,Very High,Part-time,First-time owner,Small
+317,Very Low,Rural,Low,Full-time,First-time owner,Large
+318,Low,Small Space,High,Full-time,Expert,Small
+319,Moderate,Medium Space,Medium,Limited,Experienced,Large
+320,Very High,Small Space,High,Full-time,First-time owner,Small
+321,Moderate,Large Space,Very Low,Full-time,Experienced,Small
+322,High,Large Space,High,Part-time,First-time owner,Small
+323,Very Low,Large Space,Very High,Full-time,Experienced,Small
+324,Very Low,Rural,Very High,Full-time,Expert,Medium
+325,Moderate,Small Space,High,Part-time,Experienced,Large
+326,Low,Rural,Medium,Minimal,Experienced,Medium
+327,Low,Large Space,Very Low,Limited,Expert,Large
+328,Low,Rural,Very High,Full-time,First-time owner,Small
+329,Very High,Large Space,Medium,Part-time,First-time owner,Medium
+330,Very High,Rural,High,Full-time,Expert,Medium
+331,Low,Small Space,High,Limited,First-time owner,Medium
+332,Low,Medium Space,High,Part-time,Expert,Large
+333,Low,Small Space,Medium,Minimal,First-time owner,Large
+334,High,Medium Space,High,Full-time,Experienced,Medium
+335,High,Rural,High,Full-time,Expert,Medium
+336,Low,Medium Space,Very High,Minimal,Expert,Medium
+337,Very Low,Medium Space,Low,Minimal,First-time owner,Large
+338,Moderate,Small Space,Medium,Limited,Expert,Large
+339,Moderate,Medium Space,Very Low,Part-time,Experienced,Large
+340,Low,Small Space,Low,Minimal,Experienced,Small
+341,Very Low,Large Space,Low,Full-time,First-time owner,Small
+342,Very Low,Rural,High,Minimal,Experienced,Medium
+343,Very Low,Rural,Very High,Minimal,First-time owner,Large
+344,Low,Rural,Very High,Limited,Experienced,Medium
+345,Low,Small Space,Very Low,Limited,Experienced,Medium
+346,Low,Small Space,Low,Minimal,Expert,Medium
+347,High,Rural,High,Part-time,Expert,Small
+348,Moderate,Medium Space,Medium,Part-time,Experienced,Small
+349,Low,Medium Space,Very Low,Part-time,First-time owner,Medium
+350,Low,Large Space,Very High,Minimal,First-time owner,Medium
+351,Very Low,Medium Space,High,Full-time,Expert,Medium
+352,Moderate,Medium Space,Medium,Part-time,Experienced,Small
+353,Very Low,Small Space,Very Low,Part-time,Experienced,Medium
+354,Very Low,Medium Space,Very High,Limited,Expert,Large
+355,Low,Medium Space,Low,Limited,Expert,Medium
+356,Very High,Small Space,Very High,Part-time,Experienced,Small
+357,Moderate,Medium Space,Low,Full-time,First-time owner,Medium
+358,High,Large Space,High,Part-time,Expert,Large
+359,Low,Large Space,Very Low,Full-time,First-time owner,Medium
+360,Low,Medium Space,Low,Part-time,First-time owner,Small
+361,Moderate,Large Space,Very High,Limited,Expert,Medium
+362,Very High,Large Space,Medium,Part-time,Experienced,Small
+363,Very Low,Small Space,Very Low,Limited,Expert,Large
+364,Low,Small Space,Low,Minimal,Expert,Large
+365,Low,Small Space,Medium,Part-time,First-time owner,Medium
+366,Low,Large Space,High,Full-time,Experienced,Large
+367,Low,Medium Space,Medium,Part-time,First-time owner,Large
+368,Low,Rural,Very High,Limited,Experienced,Large
+369,Low,Large Space,High,Full-time,First-time owner,Small
+370,Very High,Small Space,Very High,Full-time,First-time owner,Small
+371,Low,Medium Space,High,Full-time,Experienced,Large
+372,Moderate,Large Space,Low,Full-time,Experienced,Medium
+373,Very Low,Rural,Medium,Limited,Experienced,Small
+374,Very Low,Rural,Low,Limited,Experienced,Medium
+375,High,Small Space,High,Part-time,Expert,Large
+376,Very Low,Rural,Very Low,Limited,Expert,Large
+377,Moderate,Medium Space,Medium,Limited,First-time owner,Small
+378,High,Medium Space,Medium,Part-time,Expert,Small
+379,Low,Medium Space,High,Full-time,Expert,Small
+380,Low,Medium Space,Very Low,Limited,First-time owner,Small
+381,Low,Large Space,Very Low,Minimal,Experienced,Small
+382,Low,Small Space,High,Minimal,Experienced,Small
+383,Low,Medium Space,Very High,Full-time,Expert,Large
+384,High,Medium Space,Medium,Full-time,Experienced,Large
+385,Very High,Rural,Very High,Part-time,Experienced,Small
+386,Low,Small Space,High,Minimal,Experienced,Small
+387,Low,Medium Space,Very Low,Limited,Experienced,Large
+388,Low,Rural,Very Low,Full-time,Experienced,Medium
+389,Very Low,Large Space,Medium,Minimal,First-time owner,Large
+390,Low,Large Space,Low,Minimal,First-time owner,Medium
+391,Very Low,Medium Space,Medium,Minimal,Expert,Large
+392,Moderate,Small Space,Very Low,Full-time,Experienced,Small
+393,High,Rural,Low,Full-time,Expert,Medium
+394,High,Large Space,High,Part-time,Experienced,Medium
+395,Low,Large Space,High,Limited,Experienced,Medium
+396,Low,Medium Space,Low,Limited,Expert,Medium
+397,Very Low,Large Space,Very Low,Minimal,Experienced,Medium
+398,Moderate,Medium Space,Medium,Limited,First-time owner,Large
+399,Low,Small Space,Low,Full-time,Experienced,Medium
+400,Moderate,Large Space,High,Limited,Experienced,Medium
+401,Very High,Rural,High,Full-time,First-time owner,Medium
+402,Very Low,Rural,Very Low,Full-time,Expert,Large
+403,Low,Large Space,Very Low,Minimal,First-time owner,Large
+404,High,Large Space,Very Low,Full-time,Expert,Medium
+405,Low,Small Space,Medium,Limited,Experienced,Medium
+406,Very Low,Rural,Very Low,Minimal,Experienced,Medium
+407,Low,Small Space,Low,Part-time,Expert,Medium
+408,Very Low,Rural,High,Full-time,Expert,Medium
+409,Low,Rural,Low,Part-time,Experienced,Small
+410,Very Low,Large Space,Low,Limited,Expert,Medium
+411,High,Small Space,Low,Full-time,Expert,Small
+412,Very Low,Large Space,Very Low,Minimal,Experienced,Small
+413,Low,Medium Space,Very Low,Part-time,Expert,Medium
+414,Moderate,Small Space,High,Full-time,Experienced,Small
+415,Very Low,Rural,Medium,Minimal,Experienced,Large
+416,Very High,Small Space,Very Low,Full-time,Expert,Large
+417,Very Low,Rural,Medium,Limited,Expert,Large
+418,Moderate,Rural,High,Limited,Expert,Medium
+419,Moderate,Large Space,High,Limited,Experienced,Medium
+420,Very Low,Large Space,High,Minimal,Experienced,Medium
+421,Very Low,Small Space,Low,Part-time,First-time owner,Medium
+422,Very Low,Small Space,Low,Minimal,Experienced,Large
+423,Very Low,Rural,Medium,Part-time,Experienced,Large
+424,Low,Rural,Very Low,Minimal,Experienced,Large
+425,Moderate,Large Space,Low,Full-time,Experienced,Small
+426,Low,Medium Space,Medium,Minimal,First-time owner,Small
+427,Low,Large Space,Low,Part-time,Expert,Small
+428,Very High,Small Space,Medium,Part-time,First-time owner,Large
+429,Moderate,Medium Space,Low,Full-time,Expert,Small
+430,Low,Large Space,High,Full-time,Experienced,Large
+431,Very Low,Large Space,Very Low,Full-time,Experienced,Large
+432,Moderate,Small Space,High,Part-time,First-time owner,Small
+433,Low,Rural,High,Limited,Expert,Small
+434,Low,Rural,Very Low,Limited,First-time owner,Medium
+435,Moderate,Rural,Low,Full-time,Experienced,Large
+436,High,Small Space,Low,Full-time,First-time owner,Small
+437,Moderate,Large Space,Very Low,Limited,Experienced,Medium
+438,Low,Medium Space,Very Low,Part-time,Experienced,Medium
+439,Very Low,Medium Space,Low,Limited,Experienced,Large
+440,Very High,Medium Space,Low,Part-time,Experienced,Small
+441,Very Low,Small Space,High,Minimal,Expert,Large
+442,Very Low,Large Space,Low,Minimal,Expert,Small
+443,High,Small Space,High,Part-time,Expert,Small
+444,Very Low,Small Space,Low,Full-time,Experienced,Medium
+445,Low,Large Space,Medium,Full-time,First-time owner,Medium
+446,Very Low,Medium Space,Medium,Minimal,Experienced,Large
+447,Moderate,Rural,Medium,Full-time,Experienced,Medium
+448,Very Low,Rural,High,Full-time,First-time owner,Medium
+449,Low,Large Space,High,Limited,Expert,Large
+450,Very Low,Rural,Very Low,Full-time,First-time owner,Large
+451,Very Low,Medium Space,Very High,Minimal,Experienced,Small
+452,Moderate,Large Space,Medium,Full-time,Experienced,Large
+453,Moderate,Rural,Low,Part-time,Expert,Large
+454,Very Low,Medium Space,High,Part-time,Expert,Medium
+455,Low,Medium Space,Very Low,Minimal,Expert,Medium
+456,Low,Medium Space,Low,Limited,Experienced,Medium
+457,Low,Small Space,Very Low,Limited,Experienced,Small
+458,Very Low,Rural,Very High,Full-time,Expert,Medium
+459,Very High,Large Space,Very Low,Part-time,Experienced,Large
+460,Very Low,Large Space,Very Low,Minimal,Expert,Small
+461,Moderate,Small Space,Low,Part-time,First-time owner,Small
+462,High,Large Space,Low,Full-time,First-time owner,Large
+463,Low,Small Space,Low,Full-time,First-time owner,Large
+464,Low,Medium Space,Very High,Limited,First-time owner,Large
+465,Very High,Large Space,Medium,Full-time,Expert,Large
+466,Low,Rural,Medium,Part-time,Expert,Large
+467,Low,Medium Space,Low,Full-time,Experienced,Large
+468,High,Large Space,Very Low,Part-time,Experienced,Large
+469,Low,Large Space,Low,Part-time,First-time owner,Small
+470,Very Low,Small Space,High,Full-time,Expert,Small
+471,Moderate,Rural,Very High,Limited,Experienced,Small
+472,Very Low,Medium Space,Very Low,Full-time,Experienced,Large
+473,Very Low,Large Space,Very High,Limited,Experienced,Medium
+474,Moderate,Large Space,High,Limited,Expert,Medium
+475,Very Low,Rural,Medium,Minimal,Experienced,Large
+476,Very Low,Medium Space,Very Low,Part-time,Expert,Medium
+477,Low,Large Space,Very High,Minimal,Expert,Small
+478,Moderate,Rural,High,Limited,Expert,Small
+479,Low,Large Space,Low,Limited,First-time owner,Small
+480,Very Low,Large Space,Very Low,Minimal,Experienced,Small
+481,Very Low,Medium Space,Low,Limited,First-time owner,Large
+482,Very Low,Medium Space,Very Low,Minimal,Expert,Small
+483,Moderate,Large Space,Low,Limited,Expert,Small
+484,High,Medium Space,Low,Full-time,Expert,Small
+485,High,Small Space,Low,Part-time,First-time owner,Large
+486,Low,Large Space,Low,Minimal,Experienced,Large
+487,High,Large Space,Medium,Full-time,Experienced,Small
+488,Low,Medium Space,Low,Minimal,First-time owner,Small
+489,Very Low,Medium Space,High,Minimal,Expert,Large
+490,Very Low,Large Space,Very Low,Minimal,Expert,Medium
+491,Very High,Medium Space,Medium,Part-time,Experienced,Large
+492,Very Low,Large Space,Low,Limited,First-time owner,Medium
+493,Very Low,Medium Space,Very Low,Part-time,Expert,Large
+494,Low,Large Space,Very Low,Minimal,First-time owner,Medium
+495,Low,Medium Space,Very Low,Minimal,Expert,Small
+496,Very Low,Rural,High,Full-time,First-time owner,Small
+497,Moderate,Large Space,Very High,Part-time,First-time owner,Medium
+498,Low,Rural,Low,Limited,Experienced,Medium
+499,Moderate,Rural,Very Low,Limited,Expert,Medium
+500,Very High,Rural,High,Part-time,Experienced,Medium
+501,Moderate,Medium Space,Low,Full-time,Experienced,Medium
+502,Low,Large Space,Very Low,Minimal,Expert,Small
+503,Very Low,Medium Space,High,Limited,Experienced,Medium
+504,Moderate,Medium Space,Very High,Full-time,First-time owner,Small
+505,Very High,Large Space,Low,Full-time,Expert,Large
+506,Low,Rural,Very High,Part-time,Experienced,Large
+507,Low,Medium Space,Medium,Minimal,Experienced,Large
+508,Very Low,Rural,Very High,Part-time,Expert,Small
+509,Very Low,Small Space,Very High,Full-time,First-time owner,Large
+510,Very Low,Medium Space,Very High,Minimal,Experienced,Large
+511,Very Low,Large Space,High,Full-time,Experienced,Large
+512,High,Small Space,High,Part-time,First-time owner,Large
+513,Very Low,Rural,Very High,Part-time,Experienced,Medium
+514,Low,Medium Space,Medium,Minimal,Expert,Medium
+515,Very Low,Large Space,Medium,Part-time,First-time owner,Large
+516,Very Low,Small Space,Low,Minimal,Experienced,Medium
+517,High,Small Space,High,Full-time,Expert,Medium
+518,Moderate,Small Space,Low,Part-time,First-time owner,Medium
+519,Very High,Rural,High,Part-time,Expert,Medium
+520,Low,Large Space,Very High,Minimal,First-time owner,Large
+521,Very Low,Small Space,Very Low,Minimal,Expert,Large
+522,Very High,Large Space,Very High,Full-time,First-time owner,Large
+523,Low,Medium Space,Low,Limited,Expert,Large
+524,Moderate,Rural,High,Part-time,First-time owner,Large
+525,Low,Large Space,Very Low,Minimal,Experienced,Large
+526,Moderate,Large Space,Very High,Full-time,First-time owner,Small
+527,Very Low,Medium Space,Very High,Minimal,Experienced,Small
+528,Low,Rural,Very Low,Minimal,First-time owner,Small
+529,Moderate,Rural,High,Limited,Experienced,Large
+530,Low,Medium Space,Very High,Limited,First-time owner,Large
+531,Moderate,Rural,High,Part-time,Expert,Small
+532,Low,Medium Space,Very Low,Minimal,Expert,Medium
+533,Moderate,Large Space,Very High,Part-time,Experienced,Large
+534,Low,Large Space,Very High,Minimal,Expert,Medium
+535,High,Medium Space,High,Full-time,Expert,Small
+536,Low,Large Space,Very Low,Full-time,Expert,Small
+537,Low,Small Space,Very Low,Minimal,Expert,Small
+538,Very High,Large Space,Very Low,Part-time,Experienced,Small
+539,Very Low,Large Space,Very High,Minimal,First-time owner,Small
+540,Very High,Rural,High,Full-time,Experienced,Large
+541,Moderate,Large Space,Medium,Part-time,Expert,Small
+542,Moderate,Large Space,Very High,Full-time,Experienced,Medium
+543,Very Low,Rural,Very High,Limited,First-time owner,Medium
+544,Low,Large Space,Low,Part-time,Experienced,Large
+545,Low,Small Space,Low,Minimal,Experienced,Medium
+546,Low,Small Space,Medium,Minimal,Experienced,Medium
+547,Low,Large Space,Low,Part-time,Expert,Medium
+548,Moderate,Rural,Medium,Part-time,First-time owner,Small
+549,Moderate,Medium Space,Very Low,Full-time,Expert,Medium
+550,Moderate,Large Space,Very High,Part-time,Experienced,Small
+551,Moderate,Medium Space,Very Low,Part-time,Experienced,Medium
+552,Very Low,Large Space,Very Low,Limited,Experienced,Small
+553,High,Medium Space,Very Low,Full-time,Experienced,Medium
+554,Very Low,Medium Space,Low,Full-time,Expert,Large
+555,Low,Rural,High,Minimal,Experienced,Small
+556,Very Low,Small Space,Very Low,Minimal,Experienced,Large
+557,Moderate,Small Space,High,Full-time,Experienced,Small
+558,Low,Large Space,High,Limited,First-time owner,Large
+559,Low,Rural,High,Part-time,Experienced,Large
+560,Very Low,Small Space,Very Low,Minimal,First-time owner,Small
+561,High,Medium Space,Very Low,Part-time,Experienced,Large
+562,Low,Rural,High,Full-time,Expert,Medium
+563,Very High,Small Space,Medium,Full-time,Experienced,Medium
+564,Very Low,Rural,Medium,Full-time,Experienced,Medium
+565,Moderate,Small Space,Low,Part-time,Expert,Small
+566,Low,Small Space,Very High,Minimal,Experienced,Large
+567,Low,Medium Space,Medium,Part-time,Expert,Medium
+568,Moderate,Medium Space,Very High,Part-time,First-time owner,Small
+569,Very High,Rural,Low,Full-time,Experienced,Small
+570,High,Large Space,Very Low,Full-time,First-time owner,Medium
+571,Moderate,Medium Space,Very Low,Limited,Expert,Medium
+572,Very Low,Medium Space,Low,Part-time,First-time owner,Large
+573,Very High,Rural,High,Full-time,Expert,Medium
+574,Very Low,Large Space,Very High,Minimal,Experienced,Large
+575,Low,Small Space,Very Low,Minimal,Experienced,Large
+576,Low,Small Space,Low,Minimal,First-time owner,Medium
+577,Very Low,Large Space,Very Low,Limited,Expert,Small
+578,Low,Small Space,Medium,Minimal,Experienced,Medium
+579,High,Medium Space,Very High,Full-time,Expert,Large
+580,Moderate,Large Space,Medium,Part-time,Expert,Medium
+581,Very Low,Rural,Very High,Limited,Experienced,Medium
+582,High,Medium Space,Very Low,Full-time,Expert,Small
+583,Very Low,Small Space,Very Low,Minimal,First-time owner,Large
+584,Very High,Small Space,Medium,Part-time,Expert,Large
+585,Very High,Rural,Medium,Full-time,Expert,Large
+586,Low,Small Space,High,Minimal,First-time owner,Medium
+587,Very Low,Large Space,Very High,Limited,First-time owner,Small
+588,High,Medium Space,Very Low,Part-time,First-time owner,Large
+589,Very Low,Medium Space,Low,Minimal,First-time owner,Medium
+590,Low,Medium Space,Very High,Limited,First-time owner,Small
+591,Moderate,Rural,Very Low,Limited,First-time owner,Large
+592,Low,Small Space,Very Low,Full-time,Experienced,Medium
+593,Very Low,Medium Space,Low,Minimal,Expert,Medium
+594,Very Low,Medium Space,Low,Minimal,Expert,Small
+595,High,Small Space,Very High,Full-time,Expert,Medium
+596,Moderate,Large Space,Medium,Limited,Expert,Small
+597,High,Large Space,High,Full-time,Expert,Small
+598,Very Low,Medium Space,Very Low,Limited,Expert,Small
+599,Moderate,Large Space,High,Limited,First-time owner,Small
+600,Very Low,Small Space,Very Low,Full-time,First-time owner,Large
+601,High,Rural,High,Part-time,Expert,Medium
+602,Very High,Rural,Low,Full-time,First-time owner,Large
+603,Very Low,Small Space,Medium,Minimal,First-time owner,Medium
+604,Very Low,Medium Space,Very High,Limited,Expert,Medium
+605,Low,Medium Space,Low,Minimal,Expert,Large
+606,Low,Large Space,Low,Minimal,Experienced,Medium
+607,Very High,Small Space,Very Low,Part-time,Experienced,Medium
+608,High,Large Space,Very Low,Part-time,Experienced,Medium
+609,Very High,Large Space,Medium,Part-time,Experienced,Large
+610,Low,Large Space,High,Minimal,First-time owner,Large
+611,Low,Large Space,High,Minimal,Experienced,Large
+612,Very Low,Medium Space,Low,Full-time,First-time owner,Small
+613,Very Low,Rural,Low,Full-time,Expert,Large
+614,Very Low,Small Space,Very High,Part-time,First-time owner,Medium
+615,Low,Small Space,Very Low,Limited,Experienced,Large
+616,Very Low,Medium Space,Medium,Minimal,First-time owner,Large
+617,Moderate,Medium Space,Very High,Part-time,First-time owner,Medium
+618,Very Low,Rural,High,Minimal,Expert,Large
+619,Moderate,Small Space,Very High,Part-time,Expert,Small
+620,High,Large Space,Low,Part-time,Expert,Large
+621,High,Small Space,High,Full-time,First-time owner,Medium
+622,Very Low,Medium Space,Medium,Full-time,Experienced,Medium
+623,Very Low,Rural,Very High,Minimal,Expert,Medium
+624,Very Low,Small Space,Medium,Minimal,Experienced,Large
+625,Very Low,Large Space,Medium,Part-time,Expert,Large
+626,Low,Small Space,High,Minimal,First-time owner,Medium
+627,Very Low,Medium Space,Medium,Minimal,Experienced,Large
+628,Very Low,Rural,Medium,Part-time,First-time owner,Large
+629,Very Low,Rural,Low,Minimal,Experienced,Large
+630,Moderate,Small Space,Very High,Full-time,Experienced,Large
+631,Very Low,Small Space,Medium,Limited,Experienced,Medium
+632,Moderate,Large Space,Medium,Full-time,Expert,Medium
+633,Low,Large Space,High,Minimal,First-time owner,Large
+634,Very Low,Small Space,Very High,Minimal,Expert,Large
+635,High,Small Space,Medium,Part-time,Expert,Large
+636,Low,Medium Space,High,Part-time,Experienced,Small
+637,Low,Small Space,Low,Limited,Experienced,Medium
+638,Low,Small Space,Low,Part-time,First-time owner,Medium
+639,Moderate,Medium Space,High,Limited,Experienced,Medium
+640,Very High,Medium Space,High,Full-time,First-time owner,Large
+641,Low,Large Space,Very High,Limited,First-time owner,Small
+642,Very Low,Small Space,Low,Full-time,Expert,Medium
+643,Very Low,Small Space,Medium,Part-time,Expert,Small
+644,Very High,Small Space,Very High,Full-time,Experienced,Small
+645,Low,Rural,High,Limited,Experienced,Large
+646,High,Rural,Medium,Part-time,Expert,Large
+647,Moderate,Large Space,Medium,Full-time,Expert,Large
+648,Moderate,Large Space,Medium,Part-time,Expert,Medium
+649,Moderate,Medium Space,Very High,Part-time,Expert,Medium
+650,Low,Rural,Low,Minimal,First-time owner,Medium
+651,Moderate,Large Space,Medium,Limited,Expert,Large
+652,Low,Large Space,Very High,Limited,Expert,Large
+653,Very Low,Small Space,Very Low,Limited,Expert,Small
+654,Very High,Small Space,Very Low,Part-time,First-time owner,Medium
+655,Low,Medium Space,Medium,Full-time,Experienced,Small
+656,High,Medium Space,Low,Part-time,Experienced,Small
+657,Very Low,Rural,Medium,Part-time,Experienced,Small
+658,Very Low,Large Space,Very Low,Full-time,First-time owner,Medium
+659,Very Low,Rural,Low,Minimal,Experienced,Medium
+660,Very Low,Small Space,Very Low,Limited,Expert,Large
+661,Very Low,Medium Space,Low,Full-time,Experienced,Small
+662,Low,Rural,Medium,Limited,Experienced,Medium
+663,Very High,Rural,Low,Part-time,Expert,Medium
+664,Low,Medium Space,Medium,Limited,First-time owner,Medium
+665,Very Low,Large Space,Very Low,Minimal,Expert,Medium
+666,Moderate,Rural,Very Low,Part-time,First-time owner,Medium
+667,Low,Small Space,Very High,Minimal,Expert,Medium
+668,Very Low,Rural,Low,Minimal,Experienced,Small
+669,Very High,Small Space,Very Low,Part-time,Experienced,Large
+670,Moderate,Rural,Medium,Limited,First-time owner,Small
+671,Very Low,Medium Space,High,Part-time,Experienced,Medium
+672,Very Low,Small Space,Low,Part-time,Expert,Small
+673,Very Low,Rural,Medium,Minimal,First-time owner,Medium
+674,Very Low,Medium Space,Medium,Part-time,First-time owner,Medium
+675,Very Low,Rural,Very Low,Part-time,Expert,Medium
+676,Very Low,Rural,Medium,Minimal,First-time owner,Large
+677,High,Medium Space,Low,Full-time,Experienced,Medium
+678,Very Low,Medium Space,Very High,Limited,First-time owner,Small
+679,High,Medium Space,High,Full-time,Expert,Medium
+680,Low,Large Space,Medium,Limited,Experienced,Medium
+681,Very Low,Large Space,Low,Minimal,Expert,Medium
+682,Low,Medium Space,Medium,Minimal,Experienced,Large
+683,Very Low,Rural,Medium,Minimal,Experienced,Large
+684,High,Rural,Very High,Part-time,First-time owner,Small
+685,Low,Small Space,Medium,Minimal,First-time owner,Large
+686,Low,Medium Space,High,Minimal,Expert,Large
+687,High,Medium Space,High,Part-time,Expert,Small
+688,Moderate,Rural,Very High,Part-time,Expert,Small
+689,Moderate,Rural,High,Limited,Expert,Small
+690,Very Low,Small Space,High,Full-time,First-time owner,Small
+691,Moderate,Small Space,High,Limited,Experienced,Small
+692,Very Low,Large Space,Very Low,Minimal,Expert,Large
+693,Moderate,Small Space,Medium,Full-time,Experienced,Large
+694,Very High,Small Space,Medium,Full-time,Expert,Small
+695,Very Low,Small Space,Medium,Minimal,Experienced,Medium
+696,Low,Small Space,Low,Full-time,Expert,Small
+697,Low,Rural,High,Part-time,Expert,Small
+698,Low,Rural,High,Limited,Expert,Medium
+699,Very Low,Small Space,Low,Limited,Expert,Medium
+700,Very Low,Medium Space,Medium,Limited,Expert,Small
+701,Very Low,Medium Space,High,Limited,First-time owner,Medium
+702,Moderate,Medium Space,Medium,Full-time,Expert,Medium
+703,Low,Small Space,Low,Full-time,First-time owner,Medium
+704,Very Low,Small Space,High,Full-time,Experienced,Medium
+705,Low,Small Space,High,Limited,Expert,Small
+706,Very Low,Large Space,High,Minimal,Experienced,Small
+707,Moderate,Small Space,Medium,Limited,Experienced,Large
+708,Very Low,Small Space,Very High,Full-time,Experienced,Small
+709,Very Low,Small Space,High,Minimal,Expert,Medium
+710,Very Low,Small Space,Very High,Limited,First-time owner,Large
+711,Low,Small Space,High,Minimal,First-time owner,Large
+712,Very Low,Medium Space,High,Limited,Experienced,Medium
+713,High,Rural,Medium,Part-time,First-time owner,Medium
+714,Very Low,Small Space,Very Low,Full-time,Expert,Large
+715,Very Low,Small Space,Medium,Limited,Experienced,Small
+716,Moderate,Rural,Medium,Full-time,Expert,Large
+717,Moderate,Small Space,High,Limited,Experienced,Large
+718,Very Low,Small Space,Low,Minimal,Experienced,Small
+719,Very Low,Small Space,Very High,Minimal,Experienced,Large
+720,Low,Rural,Low,Part-time,Experienced,Small
+721,Very Low,Small Space,Medium,Limited,First-time owner,Small
+722,Low,Large Space,Low,Minimal,First-time owner,Small
+723,Very Low,Large Space,Very High,Limited,Expert,Small
+724,Very Low,Medium Space,Medium,Minimal,First-time owner,Medium
+725,Low,Medium Space,Low,Full-time,First-time owner,Large
+726,Low,Medium Space,High,Minimal,First-time owner,Large
+727,Low,Small Space,Medium,Full-time,Expert,Small
+728,Very High,Large Space,High,Part-time,Experienced,Medium
+729,Very High,Rural,Very High,Part-time,Expert,Small
+730,Low,Small Space,Low,Minimal,First-time owner,Medium
+731,Low,Small Space,High,Minimal,First-time owner,Medium
+732,Low,Medium Space,Low,Limited,Expert,Small
+733,Very Low,Medium Space,High,Minimal,Expert,Large
+734,Very Low,Rural,Low,Minimal,First-time owner,Medium
+735,Low,Large Space,Low,Limited,Experienced,Medium
+736,Very High,Medium Space,Very High,Part-time,First-time owner,Large
+737,Very Low,Rural,Medium,Full-time,Expert,Small
+738,Low,Medium Space,High,Part-time,Expert,Small
+739,Low,Small Space,Very Low,Minimal,First-time owner,Medium
+740,Very Low,Small Space,Very Low,Part-time,First-time owner,Large
+741,Moderate,Large Space,High,Limited,First-time owner,Large
+742,Very High,Rural,Very High,Part-time,Experienced,Large
+743,Low,Rural,Medium,Minimal,First-time owner,Large
+744,Very Low,Small Space,Medium,Minimal,First-time owner,Small
+745,Low,Large Space,Low,Limited,Experienced,Large
+746,Very High,Rural,High,Part-time,Experienced,Small
+747,High,Rural,Very Low,Full-time,Expert,Small
+748,Moderate,Rural,Very High,Limited,Experienced,Medium
+749,Low,Large Space,Very High,Minimal,First-time owner,Medium
+750,High,Small Space,Medium,Part-time,First-time owner,Small
+751,Very Low,Rural,Very Low,Minimal,Experienced,Medium
+752,Moderate,Small Space,Medium,Full-time,Expert,Medium
+753,Very Low,Rural,Very High,Minimal,Experienced,Medium
+754,High,Large Space,Very Low,Part-time,Experienced,Large
+755,Low,Rural,Very Low,Limited,Experienced,Medium
+756,Very High,Small Space,Very High,Part-time,Experienced,Medium
+757,Very Low,Medium Space,Very High,Minimal,Expert,Large
+758,Low,Small Space,Low,Full-time,Expert,Large
+759,Moderate,Small Space,Medium,Full-time,Expert,Large
+760,Very Low,Rural,Low,Limited,First-time owner,Small
+761,Very High,Small Space,Medium,Part-time,Experienced,Medium
+762,Very Low,Small Space,Medium,Part-time,First-time owner,Small
+763,Low,Small Space,Medium,Limited,Experienced,Large
+764,High,Large Space,Low,Part-time,First-time owner,Large
+765,Very High,Small Space,High,Part-time,Expert,Large
+766,Very High,Large Space,Medium,Full-time,Experienced,Large
+767,Very Low,Small Space,Low,Limited,First-time owner,Large
+768,Low,Medium Space,High,Limited,First-time owner,Small
+769,Very High,Large Space,Low,Part-time,First-time owner,Large
+770,Low,Large Space,Very Low,Part-time,First-time owner,Large
+771,Moderate,Large Space,Medium,Limited,First-time owner,Small
+772,Low,Small Space,Low,Limited,First-time owner,Large
+773,Low,Rural,High,Minimal,First-time owner,Small
+774,Moderate,Small Space,High,Part-time,First-time owner,Small
+775,Very Low,Large Space,Low,Limited,Experienced,Large
+776,Very Low,Small Space,Very High,Limited,First-time owner,Medium
+777,Moderate,Small Space,High,Part-time,Experienced,Small
+778,Very Low,Small Space,Medium,Limited,Experienced,Small
+779,Low,Medium Space,Medium,Minimal,Expert,Small
+780,Very Low,Small Space,Medium,Limited,Expert,Medium
+781,High,Large Space,High,Part-time,Expert,Large
+782,Very Low,Rural,High,Full-time,Experienced,Small
+783,Very Low,Rural,High,Part-time,Expert,Medium
+784,High,Rural,High,Part-time,First-time owner,Small
+785,Very High,Rural,Very High,Full-time,Experienced,Large
+786,Very Low,Rural,High,Full-time,Expert,Small
+787,Very Low,Medium Space,Medium,Full-time,Expert,Small
+788,Very Low,Small Space,High,Part-time,Expert,Large
+789,Very Low,Large Space,Very Low,Limited,Experienced,Large
+790,High,Large Space,High,Full-time,Expert,Medium
+791,Very Low,Medium Space,High,Part-time,Experienced,Small
+792,High,Large Space,High,Full-time,Experienced,Small
+793,Very Low,Rural,Low,Limited,Expert,Small
+794,Very Low,Medium Space,Very High,Full-time,Expert,Small
+795,High,Medium Space,High,Part-time,Experienced,Large
+796,High,Rural,High,Part-time,First-time owner,Medium
+797,Very Low,Large Space,High,Minimal,Expert,Small
+798,Low,Rural,Low,Limited,Experienced,Medium
+799,Low,Medium Space,Very High,Minimal,Expert,Small
+800,Low,Large Space,Low,Limited,First-time owner,Large
+801,Very Low,Small Space,Very High,Minimal,Experienced,Small
+802,Very Low,Rural,High,Full-time,First-time owner,Small
+803,High,Medium Space,Medium,Full-time,Expert,Large
+804,Low,Medium Space,Medium,Part-time,First-time owner,Small
+805,Very Low,Large Space,Very High,Limited,Experienced,Medium
+806,Moderate,Medium Space,Very Low,Part-time,Expert,Large
+807,Low,Medium Space,Very Low,Minimal,Experienced,Small
+808,Low,Small Space,Medium,Minimal,Experienced,Large
+809,Very Low,Small Space,Very Low,Part-time,Experienced,Medium
+810,Very Low,Large Space,Very High,Full-time,Experienced,Small
+811,Low,Large Space,Very High,Minimal,First-time owner,Medium
+812,Moderate,Medium Space,Medium,Part-time,Expert,Large
+813,Very Low,Small Space,Very Low,Full-time,First-time owner,Small
+814,Low,Rural,Low,Minimal,Expert,Medium
+815,High,Small Space,Medium,Full-time,First-time owner,Small
+816,Moderate,Rural,Low,Full-time,Expert,Small
+817,Low,Rural,Medium,Limited,Experienced,Medium
+818,High,Rural,High,Part-time,First-time owner,Small
+819,Very High,Small Space,Very High,Part-time,First-time owner,Small
+820,Low,Rural,Very High,Minimal,Experienced,Small
+821,Low,Rural,Very High,Minimal,Expert,Small
+822,Moderate,Medium Space,Very Low,Limited,First-time owner,Medium
+823,Very Low,Rural,Medium,Limited,First-time owner,Large
+824,Very Low,Large Space,High,Full-time,Expert,Medium
+825,Low,Medium Space,Very Low,Minimal,Experienced,Medium
+826,Low,Medium Space,Very Low,Limited,Expert,Medium
+827,Very Low,Rural,Very High,Minimal,First-time owner,Small
+828,Very Low,Small Space,High,Limited,Expert,Small
+829,Moderate,Large Space,High,Limited,Expert,Small
+830,Very Low,Small Space,Medium,Minimal,Expert,Large
+831,Very Low,Medium Space,Very High,Minimal,Expert,Large
+832,Low,Rural,Very High,Limited,Experienced,Medium
+833,High,Small Space,Medium,Part-time,First-time owner,Large
+834,Moderate,Small Space,Medium,Limited,First-time owner,Large
+835,Low,Rural,Very Low,Minimal,Expert,Medium
+836,Moderate,Small Space,High,Part-time,Experienced,Medium
+837,Low,Medium Space,High,Minimal,Experienced,Large
+838,Very Low,Large Space,Very Low,Part-time,Expert,Large
+839,High,Large Space,High,Part-time,Expert,Medium
+840,Very Low,Large Space,Low,Part-time,First-time owner,Medium
+841,Low,Large Space,Medium,Full-time,Experienced,Medium
+842,Moderate,Rural,High,Limited,First-time owner,Large
+843,Low,Large Space,Low,Limited,Experienced,Large
+844,Very High,Large Space,Very Low,Part-time,Experienced,Large
+845,Low,Small Space,Low,Minimal,Experienced,Small
+846,Low,Small Space,Medium,Minimal,First-time owner,Small
+847,Moderate,Medium Space,Medium,Full-time,First-time owner,Large
+848,Very Low,Large Space,High,Full-time,Experienced,Small
+849,Moderate,Large Space,Medium,Full-time,First-time owner,Large
+850,Moderate,Rural,High,Full-time,Expert,Medium
+851,Very Low,Rural,Very High,Full-time,Expert,Small
+852,Very Low,Medium Space,Very High,Minimal,First-time owner,Small
+853,Very Low,Large Space,Very Low,Limited,Expert,Small
+854,Very Low,Rural,High,Minimal,Expert,Large
+855,Moderate,Rural,Low,Full-time,Expert,Medium
+856,Moderate,Small Space,Low,Full-time,First-time owner,Small
+857,Moderate,Medium Space,Very High,Limited,Expert,Medium
+858,Moderate,Small Space,Low,Part-time,Experienced,Small
+859,Low,Medium Space,High,Part-time,Expert,Medium
+860,Very Low,Small Space,Very Low,Limited,First-time owner,Medium
+861,Very Low,Rural,Low,Part-time,Expert,Large
+862,Low,Medium Space,High,Minimal,Expert,Medium
+863,Very Low,Rural,Low,Minimal,First-time owner,Small
+864,Very High,Rural,Very High,Part-time,Expert,Medium
+865,Very Low,Small Space,Very Low,Limited,Experienced,Medium
+866,Very Low,Medium Space,Medium,Minimal,Experienced,Medium
+867,Low,Small Space,Medium,Limited,Expert,Large
+868,Very High,Medium Space,High,Part-time,Expert,Medium
+869,Very Low,Medium Space,Medium,Part-time,First-time owner,Medium
+870,Very High,Large Space,Very Low,Full-time,Experienced,Medium
+871,Moderate,Large Space,Medium,Full-time,Expert,Large
+872,Very Low,Rural,Medium,Limited,First-time owner,Large
+873,Very Low,Small Space,Very Low,Full-time,First-time owner,Small
+874,Moderate,Medium Space,Low,Limited,Experienced,Small
+875,Low,Small Space,Very Low,Limited,Expert,Large
+876,Low,Medium Space,Low,Minimal,Expert,Large
+877,Moderate,Rural,Low,Limited,Expert,Small
+878,Moderate,Small Space,Very High,Full-time,Expert,Large
+879,Very Low,Small Space,Very High,Part-time,First-time owner,Medium
+880,Low,Rural,Very Low,Full-time,Expert,Small
+881,Low,Medium Space,Low,Minimal,First-time owner,Small
+882,Low,Medium Space,Medium,Limited,Expert,Small
+883,Moderate,Small Space,Medium,Limited,Expert,Medium
+884,Very Low,Large Space,Medium,Full-time,Expert,Small
+885,Very Low,Large Space,Very Low,Limited,Expert,Small
+886,Low,Rural,Very High,Limited,First-time owner,Small
+887,Very High,Large Space,High,Full-time,Experienced,Large
+888,Very High,Rural,Very High,Full-time,Expert,Large
+889,High,Medium Space,Low,Full-time,Expert,Medium
+890,Very High,Large Space,Medium,Full-time,Experienced,Large
+891,Very Low,Large Space,High,Limited,First-time owner,Small
+892,Moderate,Small Space,Medium,Part-time,Experienced,Medium
+893,Very Low,Rural,Very Low,Minimal,First-time owner,Medium
+894,Low,Medium Space,Very Low,Limited,First-time owner,Large
+895,Low,Medium Space,High,Limited,Experienced,Large
+896,Very Low,Rural,Low,Limited,Expert,Small
+897,Moderate,Rural,High,Limited,Experienced,Small
+898,Very Low,Rural,Very Low,Limited,Expert,Medium
+899,Low,Medium Space,High,Limited,First-time owner,Medium
+900,Low,Rural,High,Limited,Experienced,Large
+901,Moderate,Large Space,Very Low,Limited,Experienced,Small
+902,Very Low,Rural,Very High,Minimal,First-time owner,Large
+903,High,Rural,High,Part-time,Experienced,Large
+904,Low,Small Space,Very High,Minimal,Experienced,Medium
+905,Moderate,Medium Space,Medium,Part-time,Experienced,Medium
+906,Moderate,Medium Space,High,Limited,First-time owner,Small
+907,Very Low,Large Space,Low,Part-time,Expert,Large
+908,Very High,Medium Space,High,Part-time,Expert,Small
+909,Very Low,Large Space,High,Part-time,Experienced,Large
+910,Very Low,Large Space,High,Minimal,Experienced,Large
+911,High,Small Space,Low,Part-time,Experienced,Medium
+912,Moderate,Large Space,Low,Part-time,Expert,Small
+913,Very High,Large Space,Low,Full-time,Experienced,Large
+914,Very High,Small Space,Very High,Part-time,Expert,Medium
+915,Moderate,Large Space,Very High,Limited,First-time owner,Large
+916,Moderate,Large Space,High,Full-time,Experienced,Small
+917,Moderate,Rural,Very Low,Full-time,Expert,Medium
+918,Moderate,Small Space,Medium,Full-time,Experienced,Small
+919,Very High,Large Space,Very Low,Part-time,Expert,Small
+920,Very Low,Small Space,Very Low,Part-time,Experienced,Medium
+921,High,Medium Space,Very High,Full-time,Expert,Large
+922,Very Low,Large Space,High,Minimal,Expert,Large
+923,Low,Medium Space,Medium,Minimal,Expert,Large
+924,Very High,Large Space,Medium,Part-time,First-time owner,Small
+925,Low,Rural,Very Low,Part-time,Experienced,Medium
+926,Very Low,Medium Space,Low,Limited,Expert,Large
+927,Low,Large Space,Very Low,Minimal,Experienced,Medium
+928,High,Medium Space,Low,Full-time,Expert,Large
+929,Very High,Rural,Very Low,Part-time,Expert,Large
+930,Moderate,Large Space,Very Low,Part-time,First-time owner,Small
+931,Very Low,Large Space,High,Full-time,First-time owner,Large
+932,High,Large Space,Very High,Full-time,First-time owner,Large
+933,Moderate,Medium Space,Low,Limited,First-time owner,Large
+934,Very High,Large Space,Low,Full-time,Expert,Medium
+935,Very Low,Large Space,Low,Minimal,First-time owner,Small
+936,Moderate,Medium Space,High,Full-time,Expert,Large
+937,Low,Large Space,Very Low,Minimal,Experienced,Small
+938,Very Low,Rural,Low,Minimal,First-time owner,Large
+939,Moderate,Medium Space,High,Limited,Expert,Large
+940,Low,Medium Space,High,Minimal,Experienced,Medium
+941,High,Large Space,High,Full-time,Experienced,Medium
+942,Moderate,Large Space,Very Low,Limited,First-time owner,Small
+943,Low,Small Space,High,Minimal,First-time owner,Large
+944,Very Low,Small Space,Very High,Part-time,Experienced,Large
+945,Low,Large Space,Very Low,Limited,First-time owner,Medium
+946,Very High,Rural,Medium,Full-time,First-time owner,Medium
+947,High,Small Space,High,Full-time,Expert,Large
+948,High,Rural,Medium,Part-time,Experienced,Small
+949,High,Small Space,Very High,Part-time,Experienced,Small
+950,High,Large Space,Very High,Full-time,First-time owner,Medium
+951,Very Low,Rural,Low,Minimal,First-time owner,Large
+952,Very Low,Small Space,High,Limited,Experienced,Medium
+953,Low,Rural,Medium,Full-time,Expert,Medium
+954,Low,Medium Space,Very Low,Limited,First-time owner,Large
+955,Very Low,Medium Space,Low,Minimal,Experienced,Small
+956,Low,Rural,Very High,Limited,First-time owner,Small
+957,Low,Medium Space,High,Part-time,Experienced,Small
+958,Low,Small Space,Very Low,Minimal,Expert,Small
+959,Low,Large Space,Low,Minimal,Expert,Medium
+960,Very Low,Medium Space,Low,Minimal,Experienced,Small
+961,Very High,Medium Space,Low,Full-time,Expert,Large
+962,Moderate,Small Space,Low,Limited,First-time owner,Large
+963,High,Rural,Low,Part-time,First-time owner,Large
+964,High,Small Space,Low,Part-time,First-time owner,Large
+965,Very High,Small Space,Very High,Full-time,Experienced,Small
+966,Very High,Rural,Very High,Full-time,First-time owner,Medium
+967,Very Low,Large Space,Very Low,Minimal,Expert,Small
+968,Low,Small Space,Very Low,Part-time,First-time owner,Large
+969,Moderate,Medium Space,High,Part-time,Experienced,Medium
+970,Very Low,Rural,Very High,Part-time,First-time owner,Medium
+971,Very Low,Large Space,Very Low,Minimal,First-time owner,Large
+972,Low,Medium Space,Very Low,Minimal,First-time owner,Medium
+973,Very Low,Large Space,Very High,Part-time,Expert,Large
+974,Low,Large Space,Very Low,Limited,First-time owner,Medium
+975,Very Low,Rural,Medium,Minimal,Expert,Small
+976,Very Low,Small Space,Very High,Limited,First-time owner,Small
+977,Moderate,Medium Space,Medium,Limited,Experienced,Small
+978,Low,Small Space,Medium,Full-time,First-time owner,Medium
+979,Very Low,Large Space,Very High,Limited,Experienced,Small
+980,Low,Large Space,Low,Full-time,Expert,Large
+981,Low,Small Space,High,Minimal,Experienced,Small
+982,Very Low,Rural,Low,Minimal,Expert,Medium
+983,Very Low,Small Space,Very High,Limited,First-time owner,Large
+984,High,Rural,High,Full-time,Experienced,Small
+985,Very High,Medium Space,High,Part-time,Expert,Large
+986,Moderate,Small Space,Very High,Full-time,First-time owner,Small
+987,High,Large Space,Very Low,Full-time,Experienced,Small
+988,Moderate,Rural,Low,Part-time,Expert,Large
+989,Moderate,Large Space,Medium,Full-time,First-time owner,Medium
+990,Very Low,Rural,Medium,Limited,Experienced,Medium
+991,Very High,Large Space,Very High,Part-time,Experienced,Small
+992,Low,Large Space,High,Part-time,Experienced,Medium
+993,Very High,Large Space,Very Low,Full-time,Experienced,Medium
+994,Low,Large Space,High,Part-time,Experienced,Medium
+995,Very Low,Large Space,Low,Minimal,Expert,Large
+996,Moderate,Rural,High,Limited,Experienced,Small
+997,Moderate,Small Space,Very Low,Limited,Experienced,Small
+998,Low,Rural,High,Full-time,Expert,Medium
+999,Moderate,Medium Space,Very High,Limited,First-time owner,Large
+1000,Very Low,Small Space,Low,Minimal,Experienced,Large
