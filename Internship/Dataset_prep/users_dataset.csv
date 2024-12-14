@@ -1,0 +1,1001 @@
+user_id,activity_level,home_type,grooming_preference,time_available,experience_level,preferred_dog_size
+1,Moderate,Small Apartment,Low,Limited,Expert,Small
+2,High,House,High,Full-time,Experienced,Large
+3,High,Rural,High,Part-time,First-time owner,Medium
+4,Low,Rural,Low,Part-time,First-time owner,Large
+5,Low,Small Apartment,Low,Part-time,Expert,Small
+6,Very Low,Large Apartment,Low,Full-time,Experienced,Small
+7,Low,Rural,High,Limited,First-time owner,Large
+8,Low,Large Apartment,Very High,Part-time,First-time owner,Medium
+9,Low,Large Apartment,Low,Minimal,First-time owner,Medium
+10,Low,Large Apartment,Very High,Part-time,Experienced,Medium
+11,Moderate,House,Medium,Full-time,Experienced,Medium
+12,High,Large Apartment,Very Low,Part-time,Experienced,Small
+13,Low,Small Apartment,Low,Minimal,First-time owner,Small
+14,Very High,House,Very High,Part-time,Expert,Medium
+15,Moderate,Large Apartment,Low,Part-time,First-time owner,Small
+16,Low,Rural,Low,Full-time,First-time owner,Medium
+17,High,Large Apartment,Very High,Part-time,Expert,Small
+18,Very Low,Rural,High,Part-time,Expert,Large
+19,Low,Large Apartment,High,Minimal,First-time owner,Medium
+20,Moderate,Large Apartment,Very High,Limited,Expert,Small
+21,Low,Rural,High,Limited,Experienced,Medium
+22,Low,Small Apartment,High,Part-time,Experienced,Small
+23,Very Low,House,Very High,Full-time,Experienced,Small
+24,Moderate,House,Medium,Full-time,Experienced,Medium
+25,Very Low,House,Low,Part-time,First-time owner,Medium
+26,Very Low,Rural,Medium,Minimal,Experienced,Large
+27,Very High,Small Apartment,Very Low,Part-time,Expert,Small
+28,Very Low,Large Apartment,Medium,Limited,First-time owner,Small
+29,Very Low,Small Apartment,High,Limited,Experienced,Small
+30,Moderate,Rural,Low,Limited,Experienced,Large
+31,High,Rural,Low,Full-time,First-time owner,Large
+32,Low,Rural,High,Full-time,Experienced,Medium
+33,Very High,Small Apartment,Low,Part-time,First-time owner,Small
+34,High,House,Medium,Part-time,Expert,Large
+35,Low,Small Apartment,Low,Limited,First-time owner,Small
+36,Very Low,Small Apartment,High,Minimal,Expert,Small
+37,Very Low,Small Apartment,High,Minimal,First-time owner,Small
+38,Moderate,House,Very Low,Part-time,Experienced,Small
+39,Low,Rural,Medium,Part-time,First-time owner,Large
+40,High,House,Medium,Full-time,Experienced,Large
+41,Low,House,Medium,Full-time,Expert,Medium
+42,Very Low,Rural,Very High,Minimal,First-time owner,Medium
+43,High,House,High,Full-time,First-time owner,Medium
+44,Low,Rural,High,Full-time,First-time owner,Medium
+45,High,Rural,High,Part-time,First-time owner,Large
+46,High,Small Apartment,High,Full-time,First-time owner,Small
+47,Very Low,Rural,Low,Limited,Expert,Medium
+48,Low,Rural,Low,Full-time,Experienced,Medium
+49,Moderate,Rural,High,Limited,Experienced,Large
+50,Very High,Large Apartment,Medium,Part-time,First-time owner,Medium
+51,Moderate,House,High,Limited,First-time owner,Large
+52,Very High,Small Apartment,Medium,Part-time,Experienced,Small
+53,Low,Rural,High,Minimal,First-time owner,Large
+54,Moderate,Small Apartment,Medium,Limited,First-time owner,Small
+55,Moderate,Rural,Medium,Full-time,Experienced,Medium
+56,Moderate,Rural,Low,Part-time,First-time owner,Medium
+57,Very Low,Small Apartment,Very Low,Minimal,Expert,Small
+58,Very Low,House,Low,Minimal,Experienced,Medium
+59,Very Low,Rural,Medium,Minimal,Expert,Medium
+60,Low,Small Apartment,Very High,Limited,First-time owner,Small
+61,Low,House,Medium,Limited,Expert,Large
+62,Very High,House,Very High,Full-time,Experienced,Medium
+63,Low,Small Apartment,Very High,Full-time,Experienced,Small
+64,Very Low,House,High,Limited,Expert,Small
+65,Low,Rural,Medium,Full-time,First-time owner,Large
+66,Very Low,Small Apartment,High,Full-time,Expert,Small
+67,Low,Rural,Low,Limited,First-time owner,Large
+68,Low,House,Medium,Minimal,Expert,Medium
+69,Low,House,Very Low,Minimal,First-time owner,Small
+70,Low,House,Very Low,Full-time,Expert,Small
+71,High,Small Apartment,High,Part-time,Experienced,Small
+72,Moderate,Rural,Very Low,Limited,Expert,Large
+73,Low,Rural,High,Limited,First-time owner,Large
+74,Moderate,Small Apartment,Very Low,Limited,First-time owner,Small
+75,Low,Small Apartment,Very High,Part-time,First-time owner,Small
+76,Very Low,House,Low,Limited,Expert,Large
+77,Moderate,Large Apartment,Medium,Full-time,Expert,Small
+78,Very High,Small Apartment,Medium,Part-time,First-time owner,Small
+79,High,Small Apartment,Low,Full-time,Experienced,Small
+80,Very High,Large Apartment,Very High,Part-time,Experienced,Medium
+81,Very Low,Rural,Low,Part-time,First-time owner,Large
+82,Very Low,House,Medium,Limited,Experienced,Large
+83,Low,House,Low,Minimal,First-time owner,Medium
+84,Very High,Rural,Very High,Full-time,Expert,Large
+85,High,Small Apartment,Low,Full-time,First-time owner,Small
+86,Low,House,Medium,Full-time,Expert,Medium
+87,Moderate,Small Apartment,Very Low,Full-time,Experienced,Small
+88,Very Low,Large Apartment,Low,Limited,Experienced,Small
+89,Low,Small Apartment,Very High,Minimal,Experienced,Small
+90,Moderate,Small Apartment,Low,Part-time,Experienced,Small
+91,Low,Small Apartment,Medium,Minimal,Expert,Small
+92,High,House,Very Low,Full-time,Expert,Small
+93,Very Low,Small Apartment,Very Low,Minimal,Experienced,Small
+94,Low,House,Low,Limited,Expert,Small
+95,Moderate,Small Apartment,High,Full-time,Expert,Small
+96,Low,Small Apartment,Very High,Minimal,Expert,Small
+97,Low,House,High,Minimal,Experienced,Small
+98,Low,Rural,High,Full-time,Experienced,Medium
+99,Moderate,Rural,Low,Full-time,First-time owner,Medium
+100,Moderate,Small Apartment,Very Low,Limited,Expert,Small
+101,Low,House,Medium,Limited,Experienced,Small
+102,Moderate,Rural,Very High,Full-time,Experienced,Medium
+103,Very Low,Small Apartment,Low,Full-time,Experienced,Small
+104,Very Low,House,Very High,Minimal,Experienced,Large
+105,Moderate,Rural,Very High,Part-time,Experienced,Large
+106,Low,Large Apartment,High,Minimal,Expert,Medium
+107,Moderate,Small Apartment,High,Full-time,First-time owner,Small
+108,Moderate,House,Very Low,Full-time,Expert,Small
+109,High,Rural,Medium,Full-time,First-time owner,Medium
+110,High,Rural,High,Full-time,First-time owner,Large
+111,Very Low,Small Apartment,High,Limited,First-time owner,Small
+112,Very High,Small Apartment,Very High,Full-time,Experienced,Small
+113,Moderate,House,High,Full-time,Expert,Small
+114,Very High,Large Apartment,Very Low,Full-time,First-time owner,Medium
+115,Low,Rural,Medium,Full-time,First-time owner,Large
+116,Very Low,Small Apartment,Very High,Limited,Expert,Small
+117,Moderate,House,High,Full-time,Expert,Large
+118,Very Low,House,Very High,Limited,Experienced,Small
+119,High,Small Apartment,High,Part-time,Expert,Small
+120,Very Low,Large Apartment,Very Low,Minimal,Experienced,Small
+121,High,Rural,Medium,Part-time,Expert,Large
+122,Low,Large Apartment,Low,Limited,Experienced,Medium
+123,Very Low,Small Apartment,Very Low,Minimal,First-time owner,Small
+124,Low,House,Very Low,Minimal,Experienced,Medium
+125,Moderate,Small Apartment,High,Limited,Experienced,Small
+126,Very High,Large Apartment,Medium,Full-time,Experienced,Medium
+127,Very Low,House,Medium,Minimal,Expert,Medium
+128,High,Small Apartment,Very High,Part-time,Experienced,Small
+129,Very High,Rural,High,Part-time,Experienced,Large
+130,Low,Rural,Very Low,Part-time,Experienced,Large
+131,Very High,Large Apartment,Very High,Part-time,Experienced,Small
+132,Very Low,Small Apartment,Low,Limited,First-time owner,Small
+133,Very Low,House,Very Low,Full-time,First-time owner,Large
+134,Very Low,House,Very Low,Limited,Experienced,Medium
+135,Very Low,Large Apartment,Very Low,Full-time,Experienced,Medium
+136,Very Low,Small Apartment,Very High,Part-time,Experienced,Small
+137,Moderate,House,Low,Limited,Expert,Large
+138,Very Low,House,High,Part-time,Expert,Small
+139,Very Low,Rural,Medium,Part-time,Experienced,Large
+140,Low,Rural,Medium,Limited,Expert,Large
+141,Moderate,Rural,Medium,Limited,Expert,Medium
+142,Very Low,Large Apartment,Very Low,Limited,Expert,Small
+143,Moderate,Rural,Very Low,Full-time,Expert,Large
+144,Moderate,House,Medium,Limited,Experienced,Large
+145,High,Large Apartment,Very Low,Full-time,Experienced,Small
+146,Very Low,Small Apartment,Medium,Minimal,Experienced,Small
+147,Moderate,House,Medium,Full-time,Experienced,Large
+148,Very Low,Large Apartment,Low,Full-time,Expert,Medium
+149,Moderate,Large Apartment,High,Full-time,First-time owner,Small
+150,Very High,Rural,Medium,Full-time,First-time owner,Large
+151,Low,House,Medium,Minimal,Expert,Large
+152,Low,House,Very High,Part-time,Expert,Medium
+153,Low,Rural,Low,Part-time,Experienced,Large
+154,Very High,Large Apartment,Very Low,Full-time,Expert,Medium
+155,Very Low,House,Medium,Full-time,Experienced,Small
+156,Low,Small Apartment,Medium,Part-time,First-time owner,Small
+157,Very High,Large Apartment,High,Part-time,Experienced,Small
+158,Low,Rural,Very High,Minimal,First-time owner,Large
+159,Low,Rural,Very High,Minimal,Expert,Medium
+160,High,Rural,Low,Full-time,Expert,Medium
+161,Moderate,Large Apartment,Very Low,Part-time,First-time owner,Small
+162,High,House,Medium,Part-time,First-time owner,Large
+163,Moderate,Large Apartment,Very High,Limited,Expert,Medium
+164,Very Low,House,Very High,Part-time,Experienced,Large
+165,Very Low,Rural,Low,Part-time,First-time owner,Large
+166,Moderate,Small Apartment,Low,Full-time,First-time owner,Small
+167,Low,Small Apartment,Very Low,Part-time,Expert,Small
+168,Low,Rural,Medium,Part-time,First-time owner,Medium
+169,Very Low,Large Apartment,High,Part-time,Expert,Small
+170,Very Low,House,Very High,Limited,First-time owner,Large
+171,Very Low,Small Apartment,Very High,Limited,First-time owner,Small
+172,Low,Rural,Medium,Limited,Expert,Medium
+173,Very Low,Large Apartment,Very Low,Part-time,Experienced,Medium
+174,Very High,Large Apartment,Very Low,Full-time,First-time owner,Small
+175,Low,Small Apartment,Medium,Limited,Expert,Small
+176,Very Low,House,Very Low,Minimal,Experienced,Large
+177,High,Rural,Low,Part-time,Expert,Large
+178,Moderate,House,Medium,Full-time,First-time owner,Medium
+179,Very Low,Large Apartment,High,Minimal,Experienced,Small
+180,Very Low,Large Apartment,Medium,Minimal,First-time owner,Medium
+181,High,Small Apartment,Very Low,Full-time,Expert,Small
+182,Very Low,Large Apartment,Low,Limited,Expert,Medium
+183,Moderate,Rural,Very Low,Full-time,Experienced,Large
+184,Low,Large Apartment,Medium,Minimal,First-time owner,Small
+185,Low,Rural,High,Minimal,Experienced,Medium
+186,Very High,Small Apartment,High,Part-time,Expert,Small
+187,Moderate,Small Apartment,Very High,Limited,First-time owner,Small
+188,Low,House,High,Limited,Experienced,Small
+189,Very Low,Rural,Very Low,Part-time,Experienced,Medium
+190,Very Low,House,Very High,Minimal,First-time owner,Medium
+191,Very Low,Rural,Low,Limited,Experienced,Large
+192,Low,Large Apartment,Very High,Full-time,Experienced,Small
+193,Very High,Rural,Medium,Full-time,First-time owner,Large
+194,Low,Small Apartment,Medium,Minimal,Expert,Small
+195,Moderate,House,Very High,Limited,First-time owner,Small
+196,Very Low,Rural,Very High,Minimal,Experienced,Medium
+197,Moderate,House,Very Low,Full-time,First-time owner,Large
+198,Very Low,Large Apartment,High,Minimal,Experienced,Small
+199,Moderate,Rural,Very High,Part-time,First-time owner,Medium
+200,Low,Small Apartment,High,Limited,First-time owner,Small
+201,Low,Rural,High,Minimal,Experienced,Medium
+202,Moderate,Small Apartment,Medium,Full-time,Experienced,Small
+203,Low,Large Apartment,High,Part-time,First-time owner,Small
+204,Low,House,Very High,Limited,Expert,Large
+205,Very High,Small Apartment,Very Low,Full-time,Experienced,Small
+206,Very High,Rural,Very Low,Part-time,Experienced,Medium
+207,High,Large Apartment,Medium,Full-time,Expert,Medium
+208,Very Low,Rural,Very High,Full-time,Expert,Large
+209,Low,House,Very High,Part-time,First-time owner,Small
+210,Very Low,House,Very High,Full-time,First-time owner,Small
+211,Very High,Large Apartment,High,Part-time,Experienced,Medium
+212,Low,House,Very High,Full-time,Experienced,Medium
+213,High,Small Apartment,Very High,Full-time,Experienced,Small
+214,Moderate,Large Apartment,High,Limited,Experienced,Small
+215,Very Low,Large Apartment,Very Low,Limited,First-time owner,Medium
+216,Very Low,Rural,Low,Full-time,Experienced,Large
+217,Very High,Small Apartment,Low,Part-time,Experienced,Small
+218,Moderate,Rural,Very Low,Limited,Expert,Medium
+219,High,Rural,Very High,Part-time,First-time owner,Large
+220,Moderate,House,Very Low,Full-time,Experienced,Large
+221,Very Low,House,Low,Minimal,Experienced,Small
+222,Very Low,House,Low,Minimal,Expert,Medium
+223,Very High,Large Apartment,High,Part-time,First-time owner,Small
+224,Low,Rural,Medium,Minimal,Expert,Large
+225,Moderate,Large Apartment,Very Low,Limited,Experienced,Small
+226,Low,House,Medium,Part-time,Expert,Small
+227,Very Low,House,Very Low,Minimal,First-time owner,Medium
+228,Low,Large Apartment,Medium,Limited,Experienced,Small
+229,Low,Rural,High,Minimal,Expert,Large
+230,Very Low,House,Very High,Limited,First-time owner,Small
+231,Very Low,Small Apartment,Very Low,Minimal,Experienced,Small
+232,High,House,Medium,Part-time,Experienced,Large
+233,Low,Rural,Very Low,Minimal,Expert,Large
+234,Very Low,House,Very Low,Minimal,Expert,Small
+235,Low,Large Apartment,High,Full-time,Experienced,Medium
+236,Very Low,Rural,Low,Limited,Expert,Medium
+237,Low,Rural,Low,Limited,First-time owner,Medium
+238,Low,Large Apartment,Low,Minimal,Expert,Medium
+239,High,Rural,Medium,Full-time,Expert,Large
+240,Moderate,Small Apartment,Very High,Part-time,Expert,Small
+241,Low,Rural,Medium,Limited,Expert,Medium
+242,Very High,Large Apartment,Low,Part-time,First-time owner,Medium
+243,Low,Large Apartment,High,Minimal,Expert,Small
+244,Very Low,House,Low,Limited,First-time owner,Medium
+245,Low,Small Apartment,Medium,Part-time,First-time owner,Small
+246,Moderate,Rural,High,Full-time,Experienced,Medium
+247,Very High,House,Low,Part-time,Expert,Small
+248,Very High,House,High,Part-time,First-time owner,Large
+249,Low,Rural,Low,Full-time,First-time owner,Medium
+250,Very Low,Small Apartment,Very Low,Limited,First-time owner,Small
+251,Very High,House,Medium,Full-time,First-time owner,Large
+252,Low,Rural,Very Low,Minimal,Experienced,Large
+253,Very Low,Large Apartment,Low,Minimal,Expert,Small
+254,Low,Small Apartment,Very Low,Minimal,Experienced,Small
+255,Moderate,Small Apartment,Very Low,Part-time,Expert,Small
+256,Very Low,Large Apartment,High,Limited,First-time owner,Small
+257,Very Low,House,Low,Full-time,Experienced,Small
+258,Low,Rural,Very High,Minimal,Experienced,Medium
+259,Low,Small Apartment,High,Full-time,Expert,Small
+260,Very Low,Rural,Very Low,Full-time,Experienced,Medium
+261,Very High,House,High,Part-time,First-time owner,Small
+262,High,House,High,Full-time,Experienced,Small
+263,High,Large Apartment,Very Low,Full-time,Experienced,Small
+264,Moderate,Small Apartment,High,Limited,Experienced,Small
+265,Very High,Small Apartment,Low,Part-time,First-time owner,Small
+266,Moderate,House,Very High,Part-time,Experienced,Small
+267,Low,Large Apartment,Low,Limited,First-time owner,Small
+268,Low,House,Very High,Limited,First-time owner,Large
+269,Moderate,House,High,Part-time,First-time owner,Small
+270,Very High,Large Apartment,Medium,Full-time,Experienced,Small
+271,Low,House,Very Low,Limited,First-time owner,Small
+272,Low,Small Apartment,Very High,Part-time,First-time owner,Small
+273,Low,Large Apartment,Low,Minimal,First-time owner,Medium
+274,Low,House,Very High,Full-time,First-time owner,Medium
+275,High,House,Medium,Full-time,Expert,Large
+276,Very Low,Rural,High,Full-time,Experienced,Medium
+277,Very Low,House,Low,Minimal,Experienced,Small
+278,Very High,Large Apartment,Very High,Full-time,Expert,Small
+279,Low,Large Apartment,Low,Limited,Expert,Medium
+280,Low,Rural,Medium,Minimal,Expert,Medium
+281,High,Rural,Medium,Full-time,Expert,Large
+282,Low,Small Apartment,Very High,Part-time,Expert,Small
+283,Very Low,Large Apartment,Medium,Full-time,Experienced,Medium
+284,Low,Rural,Low,Limited,First-time owner,Medium
+285,Moderate,Small Apartment,Low,Limited,First-time owner,Small
+286,Very High,Large Apartment,High,Full-time,First-time owner,Small
+287,Very High,Rural,Very Low,Full-time,Experienced,Medium
+288,Very Low,Large Apartment,Medium,Full-time,Experienced,Medium
+289,Very Low,Large Apartment,Medium,Minimal,First-time owner,Small
+290,High,Small Apartment,Low,Part-time,First-time owner,Small
+291,Very High,Rural,High,Part-time,Experienced,Large
+292,Very High,Small Apartment,High,Full-time,First-time owner,Small
+293,Low,Large Apartment,Low,Limited,Expert,Medium
+294,Low,Small Apartment,Very Low,Limited,Expert,Small
+295,Low,Small Apartment,Low,Part-time,Experienced,Small
+296,Moderate,Rural,High,Part-time,Expert,Medium
+297,Low,Large Apartment,Medium,Limited,Expert,Small
+298,Low,House,Very High,Full-time,Experienced,Small
+299,Low,House,Very Low,Part-time,Expert,Small
+300,High,Rural,Low,Full-time,First-time owner,Large
+301,Very High,Small Apartment,Very High,Full-time,Experienced,Small
+302,Very High,Large Apartment,Medium,Part-time,First-time owner,Medium
+303,Very Low,Small Apartment,High,Minimal,Experienced,Small
+304,Very High,Rural,Low,Full-time,First-time owner,Large
+305,Low,Large Apartment,High,Full-time,First-time owner,Medium
+306,High,House,High,Part-time,Expert,Small
+307,High,Large Apartment,Low,Full-time,First-time owner,Medium
+308,Very Low,Rural,Medium,Part-time,Expert,Medium
+309,Very High,Small Apartment,Medium,Part-time,Experienced,Small
+310,High,Large Apartment,High,Part-time,Expert,Medium
+311,Low,Rural,Medium,Full-time,First-time owner,Large
+312,Very Low,Large Apartment,Low,Part-time,First-time owner,Small
+313,Very Low,House,High,Minimal,Expert,Small
+314,Very Low,Large Apartment,Very High,Minimal,Expert,Medium
+315,High,Small Apartment,Very Low,Full-time,Experienced,Small
+316,Very Low,Small Apartment,Low,Limited,Experienced,Small
+317,Low,Large Apartment,High,Limited,Expert,Small
+318,Very Low,Large Apartment,Medium,Full-time,First-time owner,Medium
+319,Moderate,Rural,Medium,Part-time,Expert,Medium
+320,High,House,Medium,Full-time,Expert,Small
+321,Very Low,Small Apartment,Medium,Minimal,Expert,Small
+322,Low,House,Very High,Full-time,First-time owner,Small
+323,Very Low,Large Apartment,Very Low,Full-time,Expert,Medium
+324,Low,Small Apartment,Low,Full-time,First-time owner,Small
+325,Very Low,Rural,Medium,Minimal,Expert,Large
+326,Moderate,Small Apartment,Medium,Limited,Experienced,Small
+327,Very High,Large Apartment,Medium,Part-time,Experienced,Small
+328,Low,Rural,Very High,Minimal,Expert,Large
+329,Very Low,Rural,Very Low,Full-time,Expert,Large
+330,Very Low,Rural,Very Low,Full-time,First-time owner,Large
+331,Low,Large Apartment,Low,Part-time,Expert,Medium
+332,Moderate,Small Apartment,High,Full-time,Expert,Small
+333,Low,Large Apartment,Very High,Minimal,First-time owner,Small
+334,Moderate,House,Very Low,Limited,First-time owner,Medium
+335,Very High,Rural,Medium,Part-time,Expert,Medium
+336,Moderate,Rural,Medium,Limited,Experienced,Medium
+337,Low,Small Apartment,Low,Limited,Experienced,Small
+338,Moderate,Small Apartment,Low,Limited,Experienced,Small
+339,Low,Rural,High,Minimal,Experienced,Large
+340,Low,Rural,Very High,Minimal,Expert,Medium
+341,Low,Rural,Very Low,Minimal,Expert,Large
+342,Moderate,House,Low,Full-time,Experienced,Large
+343,Very Low,Small Apartment,High,Limited,Experienced,Small
+344,Low,Small Apartment,Medium,Limited,Experienced,Small
+345,Very High,Large Apartment,Very High,Part-time,Experienced,Medium
+346,Low,Small Apartment,Low,Minimal,Expert,Small
+347,Moderate,Large Apartment,Very High,Limited,First-time owner,Small
+348,Moderate,Small Apartment,High,Limited,Experienced,Small
+349,Low,Rural,High,Minimal,Expert,Medium
+350,Low,House,Very Low,Minimal,First-time owner,Large
+351,Low,Large Apartment,Very High,Minimal,First-time owner,Small
+352,Moderate,Large Apartment,Very High,Part-time,Expert,Small
+353,Low,Small Apartment,High,Full-time,First-time owner,Small
+354,Low,Small Apartment,Very High,Part-time,Expert,Small
+355,Moderate,Rural,Medium,Limited,First-time owner,Large
+356,Low,Rural,Very High,Full-time,Experienced,Medium
+357,Very High,Small Apartment,Very Low,Full-time,First-time owner,Small
+358,Low,Large Apartment,High,Minimal,First-time owner,Medium
+359,Very Low,Small Apartment,Very High,Limited,First-time owner,Small
+360,Low,Rural,Medium,Minimal,Expert,Large
+361,Very High,House,Very Low,Full-time,First-time owner,Small
+362,Very Low,Large Apartment,Medium,Minimal,Expert,Medium
+363,Low,Small Apartment,Very Low,Part-time,Experienced,Small
+364,Very Low,Rural,Low,Limited,Experienced,Large
+365,Moderate,Rural,Medium,Full-time,First-time owner,Large
+366,Low,Large Apartment,Low,Minimal,Expert,Small
+367,Low,Large Apartment,Very High,Minimal,First-time owner,Medium
+368,Low,Rural,Low,Minimal,First-time owner,Medium
+369,Very Low,House,Very High,Minimal,Experienced,Medium
+370,Low,Large Apartment,Very High,Limited,First-time owner,Small
+371,Moderate,Small Apartment,Very High,Full-time,First-time owner,Small
+372,Very Low,House,Very Low,Part-time,Experienced,Medium
+373,Low,Large Apartment,Low,Minimal,First-time owner,Medium
+374,Low,House,Low,Limited,Expert,Small
+375,Moderate,Rural,Low,Full-time,Expert,Large
+376,Low,House,Very High,Limited,First-time owner,Large
+377,Moderate,House,Very High,Full-time,First-time owner,Medium
+378,Low,Large Apartment,Low,Minimal,Expert,Small
+379,Moderate,Small Apartment,Medium,Part-time,Experienced,Small
+380,Very Low,Rural,High,Part-time,Experienced,Medium
+381,Very High,Rural,Very High,Part-time,Expert,Medium
+382,Very Low,Small Apartment,High,Limited,First-time owner,Small
+383,Very Low,Rural,Very High,Limited,Expert,Medium
+384,Very Low,Small Apartment,Very High,Limited,Experienced,Small
+385,Very Low,House,Very High,Minimal,Experienced,Small
+386,Low,Rural,High,Part-time,First-time owner,Large
+387,Low,Small Apartment,Very Low,Limited,Expert,Small
+388,Very Low,Large Apartment,Very High,Minimal,Expert,Small
+389,High,Small Apartment,Low,Part-time,Experienced,Small
+390,High,House,Medium,Full-time,Expert,Medium
+391,Very Low,Rural,Medium,Limited,Experienced,Large
+392,High,Large Apartment,High,Full-time,First-time owner,Medium
+393,Low,Large Apartment,High,Minimal,Expert,Medium
+394,Moderate,Rural,Very High,Full-time,First-time owner,Large
+395,Very High,Large Apartment,Very High,Full-time,Experienced,Medium
+396,Low,Large Apartment,Medium,Limited,Expert,Medium
+397,High,House,High,Full-time,First-time owner,Small
+398,Moderate,House,Medium,Part-time,Experienced,Large
+399,Very Low,Small Apartment,Low,Full-time,Expert,Small
+400,Very Low,Rural,Very High,Minimal,Expert,Medium
+401,Very Low,Large Apartment,Very High,Part-time,Expert,Medium
+402,High,Small Apartment,High,Part-time,First-time owner,Small
+403,Low,House,High,Limited,Experienced,Small
+404,Very High,Large Apartment,High,Full-time,Expert,Medium
+405,Low,Large Apartment,High,Part-time,Experienced,Medium
+406,Very Low,House,Low,Limited,Expert,Medium
+407,Low,Small Apartment,High,Minimal,First-time owner,Small
+408,Moderate,Rural,Very High,Part-time,Experienced,Medium
+409,Low,Rural,Very Low,Minimal,First-time owner,Large
+410,Very High,Small Apartment,Low,Full-time,Expert,Small
+411,Moderate,Small Apartment,Very High,Limited,Expert,Small
+412,Low,Large Apartment,High,Full-time,First-time owner,Medium
+413,High,Rural,High,Full-time,First-time owner,Medium
+414,Low,House,Medium,Minimal,Experienced,Large
+415,Low,Small Apartment,Very Low,Minimal,First-time owner,Small
+416,Very High,Large Apartment,Medium,Full-time,First-time owner,Medium
+417,Low,Large Apartment,Low,Full-time,Experienced,Medium
+418,Very High,Large Apartment,Very Low,Part-time,Expert,Medium
+419,Moderate,House,Low,Part-time,First-time owner,Medium
+420,Moderate,Large Apartment,Medium,Limited,Experienced,Small
+421,Very Low,House,Low,Limited,Experienced,Large
+422,Very High,House,Very High,Part-time,Experienced,Large
+423,Very Low,House,Low,Part-time,First-time owner,Medium
+424,Low,Rural,Low,Minimal,First-time owner,Large
+425,Moderate,Rural,Very High,Limited,Experienced,Large
+426,Very Low,House,Low,Minimal,Experienced,Large
+427,Very High,Large Apartment,High,Full-time,Expert,Medium
+428,Low,House,Very Low,Full-time,First-time owner,Small
+429,Low,Rural,Low,Minimal,Experienced,Medium
+430,Low,Large Apartment,Very High,Limited,Expert,Small
+431,Very Low,Rural,Very Low,Minimal,Expert,Medium
+432,Very Low,Rural,Low,Limited,Experienced,Medium
+433,Moderate,Rural,Very High,Full-time,Experienced,Medium
+434,High,Small Apartment,High,Full-time,Expert,Small
+435,Low,House,High,Limited,Expert,Medium
+436,Low,House,Medium,Limited,Expert,Medium
+437,Very High,Small Apartment,Very Low,Full-time,First-time owner,Small
+438,Moderate,Large Apartment,Very Low,Limited,First-time owner,Medium
+439,Very Low,Rural,Medium,Minimal,First-time owner,Medium
+440,Very Low,Rural,Very High,Part-time,Experienced,Large
+441,Very High,Rural,High,Full-time,Experienced,Medium
+442,Very Low,Small Apartment,Very Low,Limited,First-time owner,Small
+443,Moderate,Large Apartment,Very High,Full-time,Experienced,Small
+444,High,Large Apartment,High,Full-time,Expert,Medium
+445,Low,Rural,Very High,Part-time,First-time owner,Medium
+446,Moderate,Small Apartment,High,Limited,Experienced,Small
+447,Low,Large Apartment,Medium,Minimal,Expert,Medium
+448,High,Large Apartment,Low,Full-time,Experienced,Medium
+449,Very Low,Small Apartment,Medium,Limited,Expert,Small
+450,High,Large Apartment,Medium,Full-time,Expert,Small
+451,Moderate,House,Very Low,Full-time,First-time owner,Small
+452,Very Low,Small Apartment,Very High,Limited,Expert,Small
+453,Low,House,Very High,Minimal,Expert,Medium
+454,High,Small Apartment,Very High,Full-time,Experienced,Small
+455,Low,Rural,Low,Full-time,Expert,Medium
+456,Moderate,Small Apartment,High,Limited,Expert,Small
+457,Very High,Large Apartment,Very High,Part-time,Experienced,Small
+458,Very High,Small Apartment,Low,Full-time,Experienced,Small
+459,Low,House,Very Low,Minimal,Experienced,Small
+460,Low,Rural,Very Low,Limited,Expert,Medium
+461,Very Low,Large Apartment,Low,Limited,Experienced,Small
+462,Very High,Rural,Very Low,Part-time,First-time owner,Large
+463,Low,Small Apartment,Very High,Minimal,First-time owner,Small
+464,Very High,Rural,Very High,Full-time,Expert,Medium
+465,Low,Small Apartment,Very Low,Minimal,Expert,Small
+466,Moderate,Small Apartment,Very Low,Part-time,First-time owner,Small
+467,Very Low,Small Apartment,Very High,Full-time,Experienced,Small
+468,Very Low,Rural,Very High,Limited,Expert,Medium
+469,Low,Small Apartment,Very Low,Minimal,Experienced,Small
+470,Low,Small Apartment,Very High,Full-time,Experienced,Small
+471,Low,Small Apartment,Very Low,Limited,Expert,Small
+472,Very Low,House,High,Minimal,First-time owner,Medium
+473,Very Low,House,Very Low,Minimal,Experienced,Small
+474,Moderate,House,Very High,Full-time,Expert,Medium
+475,Very Low,Small Apartment,Medium,Minimal,Expert,Small
+476,Low,Large Apartment,Very Low,Limited,First-time owner,Medium
+477,Low,Small Apartment,Low,Limited,Expert,Small
+478,Moderate,Rural,Very Low,Part-time,Experienced,Medium
+479,Moderate,Large Apartment,High,Part-time,Experienced,Small
+480,Low,Rural,Medium,Minimal,Expert,Large
+481,Low,Large Apartment,High,Minimal,Expert,Medium
+482,Very High,Rural,Very Low,Full-time,First-time owner,Medium
+483,Very High,Rural,Very High,Full-time,Experienced,Medium
+484,Moderate,Rural,Very Low,Limited,Experienced,Medium
+485,Very Low,Large Apartment,Very Low,Minimal,Experienced,Medium
+486,Low,House,High,Limited,First-time owner,Small
+487,Low,Rural,Very Low,Minimal,Expert,Large
+488,Low,Rural,Medium,Part-time,First-time owner,Medium
+489,Very High,Small Apartment,Medium,Part-time,Experienced,Small
+490,Low,Large Apartment,Very Low,Limited,First-time owner,Medium
+491,Very Low,Large Apartment,Medium,Part-time,Experienced,Small
+492,High,Rural,High,Full-time,Expert,Large
+493,Very Low,Large Apartment,Very High,Limited,Expert,Small
+494,High,Large Apartment,Low,Full-time,Expert,Medium
+495,Low,Rural,High,Minimal,Expert,Medium
+496,Low,House,Very Low,Minimal,First-time owner,Large
+497,Very Low,Rural,Very Low,Minimal,First-time owner,Medium
+498,Moderate,Rural,High,Limited,First-time owner,Large
+499,Low,Small Apartment,Medium,Minimal,Experienced,Small
+500,Low,Small Apartment,Medium,Minimal,First-time owner,Small
+501,High,Rural,High,Full-time,First-time owner,Medium
+502,Moderate,Rural,Very Low,Limited,Experienced,Medium
+503,Low,Rural,Very Low,Limited,First-time owner,Medium
+504,Moderate,Small Apartment,Medium,Part-time,Expert,Small
+505,Low,Large Apartment,Very High,Minimal,Expert,Small
+506,Very Low,House,Very Low,Minimal,First-time owner,Medium
+507,Low,Rural,High,Part-time,Experienced,Large
+508,Low,House,Medium,Limited,First-time owner,Small
+509,Moderate,Rural,High,Limited,Experienced,Medium
+510,High,Large Apartment,Medium,Full-time,First-time owner,Medium
+511,High,Rural,Very Low,Full-time,First-time owner,Medium
+512,Low,Rural,Low,Limited,First-time owner,Medium
+513,High,Large Apartment,Medium,Full-time,Experienced,Small
+514,Very Low,Small Apartment,Very Low,Part-time,Experienced,Small
+515,High,Rural,Low,Part-time,Expert,Medium
+516,Very High,House,High,Part-time,First-time owner,Small
+517,Very Low,House,Very Low,Part-time,Expert,Large
+518,Low,Rural,High,Minimal,Expert,Medium
+519,Very High,Large Apartment,Medium,Part-time,Expert,Medium
+520,Low,Rural,Medium,Minimal,Experienced,Medium
+521,Very Low,Large Apartment,Medium,Minimal,First-time owner,Medium
+522,Very High,Small Apartment,Low,Full-time,Expert,Small
+523,Very Low,Small Apartment,Very Low,Part-time,Expert,Small
+524,Very High,House,Medium,Full-time,Expert,Small
+525,Very High,House,High,Full-time,Expert,Medium
+526,Very Low,House,Very Low,Minimal,Experienced,Small
+527,Low,House,High,Minimal,Expert,Large
+528,Low,Large Apartment,Very Low,Minimal,Expert,Small
+529,Very Low,Rural,Very High,Limited,Expert,Medium
+530,Very Low,Small Apartment,High,Limited,First-time owner,Small
+531,Low,Large Apartment,Low,Minimal,Experienced,Small
+532,Very Low,Small Apartment,Medium,Minimal,Expert,Small
+533,Very Low,Rural,Low,Limited,Expert,Medium
+534,Low,Small Apartment,Medium,Part-time,First-time owner,Small
+535,High,House,Low,Full-time,Expert,Large
+536,Very Low,Small Apartment,Very Low,Full-time,First-time owner,Small
+537,Low,Rural,Very High,Limited,Expert,Large
+538,Moderate,Small Apartment,Very Low,Part-time,Expert,Small
+539,Very Low,Rural,High,Minimal,First-time owner,Large
+540,Very Low,Large Apartment,Very Low,Full-time,Experienced,Small
+541,Moderate,Small Apartment,High,Limited,First-time owner,Small
+542,Moderate,Rural,Very Low,Limited,Expert,Medium
+543,Moderate,House,Very Low,Part-time,Expert,Large
+544,Moderate,Rural,Very Low,Part-time,Expert,Medium
+545,Very High,Large Apartment,Medium,Part-time,Experienced,Medium
+546,Moderate,Large Apartment,Very Low,Full-time,Experienced,Small
+547,Low,House,High,Minimal,Experienced,Large
+548,High,Rural,High,Full-time,Experienced,Large
+549,Very Low,Small Apartment,Low,Minimal,First-time owner,Small
+550,High,Small Apartment,Very High,Part-time,Experienced,Small
+551,Very Low,Rural,Very High,Minimal,Experienced,Medium
+552,Very High,Large Apartment,Very High,Part-time,Experienced,Small
+553,Moderate,Rural,Very High,Full-time,Experienced,Medium
+554,Very High,Rural,Very Low,Part-time,Experienced,Medium
+555,High,House,Medium,Full-time,Experienced,Small
+556,Low,Large Apartment,Very Low,Part-time,Expert,Medium
+557,Very Low,Small Apartment,Very High,Minimal,First-time owner,Small
+558,Low,Small Apartment,Low,Part-time,Experienced,Small
+559,Low,Large Apartment,Very High,Full-time,First-time owner,Medium
+560,Very Low,Rural,Very High,Limited,Expert,Medium
+561,Very Low,Large Apartment,Medium,Limited,Expert,Small
+562,High,Small Apartment,Very High,Full-time,First-time owner,Small
+563,Moderate,Rural,Very Low,Part-time,First-time owner,Large
+564,Very High,Small Apartment,Very High,Part-time,First-time owner,Small
+565,High,Small Apartment,Medium,Full-time,Experienced,Small
+566,Moderate,Small Apartment,Very High,Full-time,Expert,Small
+567,Very Low,Rural,High,Limited,Expert,Medium
+568,Very Low,Small Apartment,Very Low,Part-time,Experienced,Small
+569,Very Low,House,High,Part-time,Expert,Small
+570,Very Low,Rural,Medium,Limited,First-time owner,Large
+571,Moderate,Small Apartment,Very High,Full-time,First-time owner,Small
+572,Very Low,Large Apartment,Very Low,Full-time,First-time owner,Small
+573,Low,House,Medium,Minimal,First-time owner,Medium
+574,Low,Small Apartment,Very High,Part-time,First-time owner,Small
+575,High,House,Medium,Part-time,Experienced,Small
+576,Moderate,Large Apartment,Very High,Limited,Expert,Small
+577,Very High,Large Apartment,Very Low,Part-time,Experienced,Small
+578,Moderate,Large Apartment,Very High,Full-time,Expert,Medium
+579,Moderate,Small Apartment,Very High,Limited,First-time owner,Small
+580,Low,Small Apartment,Very High,Minimal,First-time owner,Small
+581,Moderate,House,Medium,Full-time,First-time owner,Small
+582,Low,House,Very Low,Minimal,First-time owner,Large
+583,Moderate,Rural,Low,Limited,Experienced,Medium
+584,High,House,Medium,Full-time,Experienced,Large
+585,Very Low,House,Very Low,Part-time,Expert,Large
+586,Very Low,House,Medium,Minimal,Experienced,Small
+587,Very Low,Large Apartment,Low,Minimal,First-time owner,Small
+588,Low,House,Very Low,Limited,Expert,Large
+589,Very Low,Rural,High,Full-time,First-time owner,Medium
+590,Moderate,House,Very Low,Limited,Experienced,Small
+591,Low,Small Apartment,Very High,Limited,First-time owner,Small
+592,Moderate,Small Apartment,Medium,Limited,Experienced,Small
+593,Moderate,Large Apartment,Very High,Limited,Experienced,Medium
+594,Moderate,Large Apartment,Very Low,Limited,First-time owner,Small
+595,Moderate,Small Apartment,Very High,Full-time,Experienced,Small
+596,Moderate,Small Apartment,Low,Full-time,Expert,Small
+597,Low,House,Medium,Limited,First-time owner,Small
+598,Very High,Large Apartment,Medium,Part-time,First-time owner,Medium
+599,Low,Small Apartment,Medium,Minimal,First-time owner,Small
+600,Very Low,House,Low,Limited,Expert,Medium
+601,Low,Rural,Low,Part-time,Expert,Medium
+602,High,Small Apartment,Very Low,Full-time,First-time owner,Small
+603,Low,House,Medium,Minimal,Expert,Medium
+604,Very Low,Small Apartment,Very Low,Part-time,Experienced,Small
+605,Moderate,House,High,Limited,First-time owner,Small
+606,Very High,House,Very High,Part-time,Expert,Medium
+607,Low,Rural,Medium,Limited,Experienced,Large
+608,Low,Rural,Low,Limited,First-time owner,Medium
+609,Low,Rural,Medium,Full-time,First-time owner,Large
+610,Low,Large Apartment,Very High,Part-time,Experienced,Medium
+611,Very Low,House,Very Low,Full-time,Expert,Large
+612,Very Low,Small Apartment,Medium,Limited,First-time owner,Small
+613,Very Low,Large Apartment,High,Minimal,Expert,Medium
+614,Very High,Small Apartment,Medium,Full-time,Experienced,Small
+615,Moderate,Rural,Medium,Limited,Experienced,Large
+616,Low,Small Apartment,Medium,Limited,First-time owner,Small
+617,Very High,House,High,Part-time,Experienced,Medium
+618,Very Low,Large Apartment,High,Minimal,Experienced,Medium
+619,High,Large Apartment,High,Part-time,Expert,Small
+620,Moderate,House,Medium,Limited,Experienced,Medium
+621,Moderate,House,Low,Limited,First-time owner,Medium
+622,Very Low,Large Apartment,Very Low,Limited,First-time owner,Small
+623,Very Low,House,Very High,Minimal,Expert,Small
+624,Low,Small Apartment,Very High,Part-time,Experienced,Small
+625,Low,House,Medium,Limited,First-time owner,Medium
+626,Very High,Rural,Medium,Full-time,First-time owner,Medium
+627,Low,Large Apartment,High,Part-time,Expert,Medium
+628,Very Low,Small Apartment,Very High,Limited,First-time owner,Small
+629,High,Rural,High,Part-time,Expert,Large
+630,Moderate,Large Apartment,Very High,Part-time,Experienced,Small
+631,Low,Large Apartment,Low,Full-time,First-time owner,Small
+632,Low,Rural,Very Low,Minimal,Experienced,Medium
+633,Moderate,Rural,Medium,Part-time,First-time owner,Large
+634,Very Low,Small Apartment,Medium,Minimal,First-time owner,Small
+635,Moderate,Large Apartment,Very High,Limited,Experienced,Small
+636,Moderate,Rural,High,Limited,Expert,Large
+637,Very Low,House,Very Low,Part-time,Experienced,Small
+638,Low,Rural,High,Full-time,First-time owner,Medium
+639,Low,Large Apartment,Very High,Limited,Expert,Medium
+640,High,House,Very Low,Full-time,First-time owner,Medium
+641,Very Low,Rural,Low,Full-time,Experienced,Medium
+642,Very Low,Small Apartment,High,Part-time,Expert,Small
+643,Very Low,Small Apartment,High,Limited,Expert,Small
+644,Very High,Small Apartment,Very Low,Part-time,Experienced,Small
+645,Low,Large Apartment,Very High,Limited,Expert,Medium
+646,Moderate,Rural,High,Limited,Expert,Large
+647,Low,House,Low,Full-time,Expert,Large
+648,Very Low,Small Apartment,High,Limited,Expert,Small
+649,Very Low,Large Apartment,Medium,Limited,First-time owner,Medium
+650,Very Low,House,Low,Minimal,First-time owner,Large
+651,Very Low,Large Apartment,Very High,Full-time,First-time owner,Small
+652,Moderate,Large Apartment,High,Limited,Experienced,Small
+653,Low,Rural,Medium,Minimal,First-time owner,Medium
+654,Moderate,Small Apartment,Very Low,Part-time,Experienced,Small
+655,Moderate,Rural,Very High,Limited,Expert,Medium
+656,Low,House,High,Limited,Experienced,Small
+657,Moderate,Large Apartment,Very Low,Full-time,Expert,Medium
+658,High,Small Apartment,Low,Part-time,Expert,Small
+659,Moderate,Large Apartment,Very Low,Limited,First-time owner,Small
+660,High,Large Apartment,Very High,Full-time,First-time owner,Medium
+661,Very Low,Large Apartment,High,Minimal,Experienced,Medium
+662,Low,House,High,Part-time,Expert,Large
+663,Moderate,Rural,Very Low,Limited,Experienced,Medium
+664,Very Low,House,Very Low,Minimal,Expert,Large
+665,Moderate,Large Apartment,Very Low,Part-time,Experienced,Medium
+666,Low,Rural,Low,Limited,Experienced,Large
+667,Low,Large Apartment,Very Low,Full-time,Experienced,Medium
+668,Low,Large Apartment,Low,Limited,Experienced,Medium
+669,Low,House,High,Part-time,First-time owner,Large
+670,Very Low,Small Apartment,Very High,Part-time,Experienced,Small
+671,Moderate,House,High,Part-time,Expert,Medium
+672,Low,Small Apartment,High,Limited,First-time owner,Small
+673,Low,Large Apartment,Very High,Limited,First-time owner,Medium
+674,Very Low,House,Very High,Limited,First-time owner,Medium
+675,Very High,Large Apartment,Very High,Full-time,Experienced,Small
+676,Very Low,Small Apartment,High,Minimal,Expert,Small
+677,High,Small Apartment,High,Full-time,First-time owner,Small
+678,Low,Rural,Very Low,Minimal,Experienced,Large
+679,Very Low,Small Apartment,Medium,Part-time,Expert,Small
+680,Low,Small Apartment,Low,Full-time,Experienced,Small
+681,Low,House,Very High,Limited,First-time owner,Medium
+682,Very Low,House,Low,Limited,Experienced,Large
+683,Very Low,Small Apartment,Low,Minimal,First-time owner,Small
+684,Moderate,Rural,Low,Limited,Experienced,Medium
+685,Low,Large Apartment,Very Low,Limited,Experienced,Small
+686,Very Low,House,Very High,Limited,Expert,Medium
+687,Very Low,Rural,Very High,Full-time,First-time owner,Large
+688,Moderate,House,High,Limited,Expert,Medium
+689,Low,House,Very Low,Limited,Expert,Medium
+690,Low,Large Apartment,Medium,Minimal,First-time owner,Small
+691,High,Small Apartment,Very Low,Part-time,First-time owner,Small
+692,Moderate,Small Apartment,Very High,Part-time,Expert,Small
+693,Very Low,House,High,Limited,Experienced,Small
+694,Low,Rural,Very Low,Minimal,Expert,Large
+695,Very Low,Large Apartment,Very High,Limited,Experienced,Small
+696,Very Low,Small Apartment,High,Limited,First-time owner,Small
+697,Moderate,Rural,Very Low,Part-time,Experienced,Large
+698,Very Low,Large Apartment,Medium,Minimal,Expert,Small
+699,Low,Rural,Very Low,Limited,Expert,Medium
+700,Very Low,Large Apartment,Low,Full-time,Experienced,Medium
+701,Very High,Large Apartment,Low,Full-time,Expert,Small
+702,Very Low,Rural,Low,Part-time,Expert,Medium
+703,High,House,Medium,Full-time,Experienced,Large
+704,Moderate,Rural,Very High,Limited,Experienced,Medium
+705,Very Low,Large Apartment,Very High,Minimal,First-time owner,Medium
+706,Low,House,Very High,Limited,Expert,Large
+707,Very Low,Rural,Medium,Limited,Expert,Medium
+708,Low,House,High,Full-time,Expert,Large
+709,Very High,Large Apartment,High,Part-time,First-time owner,Small
+710,High,Small Apartment,Very High,Part-time,Expert,Small
+711,Low,Rural,Low,Limited,First-time owner,Medium
+712,Low,Small Apartment,Very Low,Full-time,Expert,Small
+713,Very High,Rural,Low,Full-time,First-time owner,Large
+714,Moderate,House,Medium,Part-time,Expert,Medium
+715,Low,Rural,Very Low,Minimal,Expert,Medium
+716,Very High,Large Apartment,Very High,Full-time,First-time owner,Small
+717,Low,House,Medium,Minimal,Experienced,Large
+718,Very Low,Large Apartment,Very Low,Limited,Experienced,Medium
+719,Very Low,Small Apartment,Medium,Minimal,First-time owner,Small
+720,Very Low,Rural,Medium,Full-time,Expert,Large
+721,Very Low,Small Apartment,Low,Full-time,First-time owner,Small
+722,Very Low,Rural,High,Minimal,Experienced,Large
+723,Low,Large Apartment,Very Low,Minimal,First-time owner,Medium
+724,Very High,House,High,Part-time,First-time owner,Medium
+725,Low,House,Very High,Part-time,Experienced,Large
+726,Very Low,House,Very Low,Limited,Expert,Medium
+727,Low,Large Apartment,Medium,Minimal,Expert,Small
+728,Moderate,Small Apartment,Medium,Full-time,First-time owner,Small
+729,Low,Large Apartment,Low,Minimal,First-time owner,Medium
+730,Low,House,Medium,Minimal,First-time owner,Small
+731,Moderate,Small Apartment,Very High,Full-time,Expert,Small
+732,Low,House,Medium,Minimal,Expert,Large
+733,Low,Rural,Low,Limited,Expert,Large
+734,Moderate,Small Apartment,Very Low,Limited,First-time owner,Small
+735,High,House,Very High,Part-time,Expert,Medium
+736,Moderate,Rural,Very Low,Limited,Expert,Medium
+737,Low,Rural,Low,Limited,Expert,Large
+738,Very Low,Small Apartment,Very High,Minimal,First-time owner,Small
+739,Very High,Large Apartment,Medium,Part-time,Experienced,Small
+740,Moderate,House,Low,Limited,Expert,Large
+741,Low,Small Apartment,Very Low,Limited,First-time owner,Small
+742,Very Low,House,Low,Full-time,Experienced,Medium
+743,Very High,Rural,High,Part-time,Expert,Large
+744,Low,Rural,Low,Minimal,Expert,Large
+745,Very Low,Small Apartment,Low,Minimal,Experienced,Small
+746,Very Low,Large Apartment,High,Part-time,Experienced,Medium
+747,Very High,Rural,Very Low,Full-time,Expert,Medium
+748,Moderate,Large Apartment,Medium,Part-time,First-time owner,Small
+749,Low,Rural,Very Low,Limited,Experienced,Medium
+750,Moderate,Large Apartment,Very High,Part-time,First-time owner,Medium
+751,Low,House,Low,Minimal,First-time owner,Large
+752,High,Large Apartment,High,Part-time,First-time owner,Small
+753,Very Low,Large Apartment,Low,Part-time,Experienced,Medium
+754,Very Low,House,Very Low,Limited,Experienced,Large
+755,Low,House,High,Part-time,Expert,Medium
+756,Low,Rural,High,Minimal,Expert,Medium
+757,Very Low,Small Apartment,Medium,Minimal,First-time owner,Small
+758,Low,Large Apartment,High,Limited,First-time owner,Small
+759,Very Low,Rural,Low,Minimal,First-time owner,Medium
+760,Moderate,Small Apartment,High,Part-time,Expert,Small
+761,Low,Large Apartment,Very Low,Minimal,First-time owner,Medium
+762,Low,Small Apartment,Low,Part-time,Experienced,Small
+763,Low,Small Apartment,Medium,Part-time,Experienced,Small
+764,Moderate,Large Apartment,Medium,Full-time,Expert,Small
+765,Low,Small Apartment,Low,Minimal,Experienced,Small
+766,Moderate,Large Apartment,Very High,Limited,Experienced,Medium
+767,Very Low,Rural,Very High,Limited,Experienced,Large
+768,Moderate,House,Very Low,Limited,Experienced,Medium
+769,Moderate,Small Apartment,Very High,Limited,Expert,Small
+770,Moderate,Large Apartment,Very High,Full-time,Experienced,Small
+771,Low,Large Apartment,Very Low,Limited,Expert,Small
+772,Very Low,Large Apartment,Low,Minimal,Experienced,Medium
+773,Moderate,Rural,Very High,Full-time,Expert,Medium
+774,Very Low,Rural,Very Low,Minimal,Expert,Medium
+775,Moderate,Small Apartment,Very High,Full-time,Expert,Small
+776,Very Low,Rural,Medium,Full-time,Expert,Large
+777,High,Rural,Very Low,Full-time,First-time owner,Medium
+778,Very High,Large Apartment,Very Low,Part-time,First-time owner,Small
+779,Low,House,Medium,Limited,First-time owner,Medium
+780,Very Low,Large Apartment,Very Low,Limited,First-time owner,Small
+781,Moderate,House,High,Full-time,Experienced,Small
+782,Low,Small Apartment,Low,Full-time,Experienced,Small
+783,Moderate,Small Apartment,High,Part-time,Expert,Small
+784,Very Low,Rural,Very High,Minimal,Experienced,Medium
+785,Very High,Large Apartment,Medium,Full-time,Expert,Small
+786,Very Low,Rural,Medium,Full-time,First-time owner,Large
+787,High,Large Apartment,Medium,Full-time,Expert,Medium
+788,Moderate,Large Apartment,High,Full-time,Experienced,Small
+789,Very Low,Large Apartment,Medium,Limited,First-time owner,Small
+790,Very Low,Small Apartment,High,Minimal,Experienced,Small
+791,Moderate,Rural,Very High,Limited,Expert,Medium
+792,Very Low,House,Very High,Minimal,Experienced,Small
+793,Moderate,House,Medium,Part-time,Experienced,Large
+794,Low,House,Very Low,Limited,Experienced,Large
+795,Low,House,Low,Part-time,First-time owner,Large
+796,High,House,High,Part-time,Experienced,Large
+797,Moderate,Small Apartment,Low,Part-time,Expert,Small
+798,Moderate,House,Very Low,Full-time,First-time owner,Small
+799,Very High,Rural,Very Low,Full-time,Expert,Large
+800,Moderate,House,Medium,Part-time,Expert,Small
+801,High,House,Very High,Full-time,Expert,Large
+802,Moderate,Large Apartment,High,Limited,Expert,Small
+803,Moderate,House,Medium,Limited,First-time owner,Large
+804,Very Low,Large Apartment,Low,Limited,Experienced,Small
+805,Very Low,Small Apartment,Very High,Full-time,Expert,Small
+806,Moderate,Large Apartment,High,Limited,Expert,Medium
+807,Moderate,House,Very Low,Limited,Experienced,Small
+808,Low,House,High,Limited,First-time owner,Medium
+809,Low,Large Apartment,Low,Part-time,Expert,Medium
+810,Low,Rural,Very High,Minimal,Experienced,Medium
+811,High,Small Apartment,Low,Full-time,First-time owner,Small
+812,Low,Large Apartment,High,Limited,First-time owner,Small
+813,Moderate,Rural,Very High,Limited,Expert,Large
+814,Moderate,Rural,High,Limited,Experienced,Large
+815,Very Low,Small Apartment,Low,Full-time,Experienced,Small
+816,Very Low,Small Apartment,Very High,Minimal,Expert,Small
+817,Moderate,Large Apartment,Very High,Part-time,First-time owner,Small
+818,Low,Rural,Medium,Limited,First-time owner,Large
+819,Moderate,Small Apartment,Very Low,Full-time,Expert,Small
+820,Low,Large Apartment,High,Minimal,Experienced,Small
+821,Very Low,Small Apartment,Very High,Part-time,Experienced,Small
+822,High,Large Apartment,Very Low,Full-time,First-time owner,Small
+823,Moderate,Large Apartment,Low,Full-time,Expert,Small
+824,Low,Large Apartment,Low,Part-time,Expert,Medium
+825,Low,Large Apartment,Very Low,Minimal,Experienced,Medium
+826,Low,House,Very Low,Minimal,Expert,Large
+827,Low,Rural,Very Low,Limited,Expert,Medium
+828,Low,Large Apartment,Low,Part-time,Expert,Medium
+829,Very High,House,Very Low,Full-time,First-time owner,Medium
+830,Moderate,Small Apartment,High,Limited,Experienced,Small
+831,Very Low,Large Apartment,Low,Minimal,Expert,Medium
+832,Very Low,Small Apartment,Very Low,Limited,First-time owner,Small
+833,Very Low,Large Apartment,Medium,Minimal,Experienced,Small
+834,Very High,Large Apartment,Very High,Part-time,Experienced,Small
+835,Low,Small Apartment,Very Low,Minimal,Expert,Small
+836,Very Low,House,Very High,Minimal,Expert,Large
+837,Low,Large Apartment,Medium,Limited,First-time owner,Medium
+838,Very Low,Rural,High,Full-time,First-time owner,Medium
+839,Very High,Small Apartment,Very High,Part-time,Expert,Small
+840,Low,Rural,Very Low,Minimal,First-time owner,Large
+841,High,Rural,Very Low,Full-time,Expert,Large
+842,Very Low,House,Very Low,Part-time,First-time owner,Small
+843,Low,Small Apartment,Medium,Full-time,Expert,Small
+844,Low,Large Apartment,Very High,Full-time,Experienced,Medium
+845,Moderate,House,Very Low,Full-time,Expert,Medium
+846,Moderate,Small Apartment,Low,Part-time,First-time owner,Small
+847,Low,Small Apartment,Very High,Full-time,Expert,Small
+848,High,Small Apartment,Low,Full-time,Experienced,Small
+849,High,Small Apartment,Medium,Part-time,Experienced,Small
+850,Low,House,Medium,Limited,First-time owner,Large
+851,Very Low,Small Apartment,Very High,Part-time,Expert,Small
+852,Very Low,Large Apartment,Very High,Limited,Experienced,Small
+853,Low,Large Apartment,Low,Part-time,Experienced,Small
+854,Very Low,Large Apartment,Low,Minimal,Experienced,Small
+855,Very Low,Large Apartment,Very Low,Part-time,Expert,Medium
+856,Low,Small Apartment,Very High,Minimal,Expert,Small
+857,Low,Large Apartment,High,Full-time,First-time owner,Small
+858,Very Low,Large Apartment,Medium,Limited,First-time owner,Medium
+859,Very Low,Small Apartment,High,Limited,Experienced,Small
+860,Low,Small Apartment,Very Low,Limited,First-time owner,Small
+861,Moderate,House,High,Part-time,First-time owner,Small
+862,Low,Large Apartment,Very Low,Minimal,Expert,Medium
+863,Low,Rural,Very High,Limited,Experienced,Large
+864,Very High,House,Medium,Part-time,Experienced,Large
+865,Moderate,Small Apartment,Low,Limited,Experienced,Small
+866,Moderate,Large Apartment,Medium,Limited,Experienced,Small
+867,Moderate,Small Apartment,Low,Full-time,First-time owner,Small
+868,High,Large Apartment,Very High,Part-time,Experienced,Medium
+869,High,Rural,High,Full-time,Experienced,Medium
+870,Very Low,House,Very High,Minimal,First-time owner,Medium
+871,Low,House,Very High,Minimal,First-time owner,Medium
+872,Very Low,House,Very Low,Full-time,Experienced,Large
+873,Low,Large Apartment,High,Minimal,First-time owner,Small
+874,Very Low,Rural,Very High,Full-time,First-time owner,Large
+875,Moderate,Large Apartment,Low,Limited,Expert,Small
+876,Moderate,Rural,Medium,Full-time,Experienced,Medium
+877,Very High,Rural,Low,Full-time,Expert,Large
+878,Moderate,Rural,Very High,Part-time,Expert,Large
+879,Very Low,Rural,Low,Minimal,Experienced,Medium
+880,High,Large Apartment,Very High,Full-time,Experienced,Medium
+881,Low,House,Low,Limited,First-time owner,Large
+882,Moderate,Large Apartment,High,Limited,Experienced,Medium
+883,Low,Rural,Very Low,Minimal,First-time owner,Medium
+884,Low,Rural,Very High,Minimal,First-time owner,Medium
+885,Very Low,Large Apartment,Low,Minimal,Experienced,Small
+886,Moderate,Large Apartment,Very High,Full-time,Experienced,Medium
+887,Very Low,Large Apartment,Very Low,Limited,Expert,Medium
+888,Moderate,Rural,High,Full-time,Expert,Medium
+889,Very High,Large Apartment,High,Part-time,Experienced,Medium
+890,Low,Rural,Low,Minimal,Experienced,Large
+891,Moderate,House,Medium,Full-time,Expert,Medium
+892,Low,House,High,Minimal,Expert,Small
+893,High,House,Low,Part-time,Expert,Small
+894,High,Small Apartment,High,Part-time,Expert,Small
+895,Low,Rural,Medium,Limited,First-time owner,Medium
+896,Very High,House,High,Part-time,Experienced,Small
+897,Very High,Rural,Medium,Full-time,Expert,Medium
+898,Very Low,Small Apartment,Medium,Part-time,First-time owner,Small
+899,Very Low,House,Very High,Minimal,Experienced,Medium
+900,Low,Large Apartment,Low,Minimal,Experienced,Medium
+901,Low,Small Apartment,Medium,Minimal,First-time owner,Small
+902,Low,Small Apartment,Very High,Part-time,First-time owner,Small
+903,Very High,Rural,High,Part-time,Experienced,Large
+904,High,Rural,Very High,Full-time,First-time owner,Large
+905,Very High,Large Apartment,Very High,Full-time,First-time owner,Small
+906,Low,Large Apartment,Medium,Minimal,Experienced,Medium
+907,Very Low,Rural,High,Limited,First-time owner,Medium
+908,Low,Small Apartment,Very Low,Minimal,Expert,Small
+909,Low,Large Apartment,High,Minimal,Experienced,Small
+910,Moderate,Large Apartment,Low,Part-time,Experienced,Small
+911,Very Low,House,High,Minimal,First-time owner,Medium
+912,Low,Small Apartment,High,Part-time,Experienced,Small
+913,High,Large Apartment,Very High,Part-time,Expert,Medium
+914,High,Rural,High,Full-time,First-time owner,Medium
+915,Very High,Rural,High,Full-time,First-time owner,Large
+916,High,Rural,High,Full-time,Expert,Medium
+917,Very High,House,Medium,Part-time,Expert,Small
+918,Low,Rural,Medium,Full-time,First-time owner,Large
+919,Moderate,House,Very High,Part-time,First-time owner,Medium
+920,Moderate,House,Very Low,Limited,Expert,Large
+921,Moderate,Rural,Very High,Limited,Experienced,Large
+922,Low,House,Low,Limited,Experienced,Large
+923,Very High,Large Apartment,Medium,Full-time,Expert,Medium
+924,Very High,Large Apartment,Low,Part-time,Expert,Medium
+925,Moderate,Rural,Low,Limited,Experienced,Medium
+926,Moderate,Rural,Low,Part-time,Expert,Large
+927,Low,House,Low,Limited,Expert,Small
+928,Very Low,Large Apartment,Medium,Limited,First-time owner,Small
+929,Moderate,House,Very High,Full-time,Experienced,Large
+930,Very Low,Small Apartment,Very High,Minimal,Experienced,Small
+931,Low,Small Apartment,Very High,Minimal,Experienced,Small
+932,Low,House,Very Low,Full-time,Expert,Large
+933,Very Low,House,Very Low,Part-time,First-time owner,Small
+934,Low,Small Apartment,Low,Part-time,First-time owner,Small
+935,Very Low,Large Apartment,High,Part-time,First-time owner,Small
+936,Moderate,Large Apartment,Medium,Part-time,First-time owner,Medium
+937,Very Low,Large Apartment,Low,Minimal,Expert,Small
+938,Very Low,Rural,Low,Limited,First-time owner,Medium
+939,Moderate,Rural,Medium,Full-time,Experienced,Medium
+940,Very Low,House,Very High,Minimal,Expert,Large
+941,Very Low,Small Apartment,Low,Full-time,Experienced,Small
+942,Very High,Large Apartment,High,Full-time,Expert,Medium
+943,Very Low,Small Apartment,Very High,Limited,First-time owner,Small
+944,High,Small Apartment,Very High,Part-time,First-time owner,Small
+945,Low,Large Apartment,Low,Part-time,First-time owner,Small
+946,Low,Rural,High,Full-time,First-time owner,Medium
+947,Moderate,Rural,Medium,Part-time,First-time owner,Large
+948,Very Low,Large Apartment,Very High,Minimal,First-time owner,Small
+949,Low,Rural,Very Low,Minimal,Expert,Medium
+950,Very Low,Rural,Medium,Minimal,Expert,Medium
+951,Very Low,Small Apartment,Very Low,Minimal,Experienced,Small
+952,Low,Large Apartment,Low,Limited,Experienced,Medium
+953,Very High,House,Low,Full-time,Expert,Large
+954,Low,Small Apartment,Very Low,Minimal,Expert,Small
+955,High,Rural,Low,Part-time,First-time owner,Medium
+956,Very Low,Large Apartment,Very Low,Limited,First-time owner,Small
+957,Very High,House,Very High,Full-time,Expert,Medium
+958,Very Low,Rural,Very High,Part-time,Experienced,Medium
+959,Very Low,Small Apartment,Very High,Minimal,Experienced,Small
+960,Very High,Small Apartment,Very High,Part-time,Expert,Small
+961,Low,House,Medium,Limited,First-time owner,Large
+962,High,Rural,Low,Part-time,Expert,Large
+963,Very Low,Large Apartment,Low,Part-time,First-time owner,Small
+964,High,Small Apartment,Medium,Full-time,First-time owner,Small
+965,Very Low,Rural,High,Minimal,Experienced,Medium
+966,Very High,House,High,Full-time,Experienced,Large
+967,Low,Large Apartment,Very Low,Minimal,First-time owner,Small
+968,Very Low,Small Apartment,Medium,Minimal,Expert,Small
+969,Low,Rural,Very High,Limited,Experienced,Medium
+970,Low,Small Apartment,Medium,Minimal,Expert,Small
+971,High,House,Low,Part-time,Experienced,Medium
+972,Very Low,Rural,Low,Full-time,First-time owner,Medium
+973,Low,House,High,Full-time,First-time owner,Small
+974,Moderate,House,Medium,Full-time,Experienced,Small
+975,Low,Small Apartment,High,Full-time,Experienced,Small
+976,High,Large Apartment,Medium,Full-time,Experienced,Small
+977,Low,House,Very High,Limited,First-time owner,Large
+978,Moderate,Small Apartment,Very High,Limited,First-time owner,Small
+979,Very Low,Small Apartment,Very Low,Limited,First-time owner,Small
+980,Low,Rural,Very Low,Part-time,First-time owner,Large
+981,Low,House,Low,Part-time,Experienced,Medium
+982,Very Low,Small Apartment,Very Low,Minimal,Expert,Small
+983,Moderate,Rural,Very Low,Full-time,Experienced,Large
+984,Low,Large Apartment,Medium,Limited,Experienced,Small
+985,Very Low,Rural,Very High,Full-time,Experienced,Medium
+986,Very Low,Rural,Very High,Part-time,First-time owner,Large
+987,Moderate,Small Apartment,Very Low,Part-time,Expert,Small
+988,Low,House,Medium,Limited,Experienced,Medium
+989,Very High,Rural,Low,Part-time,First-time owner,Large
+990,Low,Rural,Medium,Minimal,Expert,Large
+991,Very Low,Large Apartment,Very High,Full-time,Expert,Small
+992,High,House,Very High,Full-time,First-time owner,Small
+993,Low,House,High,Limited,First-time owner,Small
+994,Low,House,Very High,Full-time,First-time owner,Large
+995,Very Low,House,Very High,Full-time,First-time owner,Large
+996,Low,House,Medium,Full-time,Expert,Medium
+997,Low,Small Apartment,Very Low,Full-time,First-time owner,Small
+998,Low,Large Apartment,Medium,Minimal,Experienced,Small
+999,Very Low,House,Medium,Limited,First-time owner,Small
+1000,Very Low,House,Very High,Minimal,Expert,Medium
