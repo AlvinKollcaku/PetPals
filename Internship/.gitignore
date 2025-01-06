@@ -7,3 +7,4 @@ CNN/src/train.py
 CNN/CNN_models
 venv
 pytorch-gpu
+CNN/Dataset_prep
