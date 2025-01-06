@@ -23,31 +23,48 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 import torch.nn as nn
 import torch.nn.functional as F
+import torch
 
 class PetMatchingModel(nn.Module):
-    def __init__(self,dropoutRate):
+    def __init__(self,dropoutRate,batchNorm,actFun):
         super().__init__()
 
         self.inputLayer =  nn.Linear(6, 64)
+        self.bnorm1 = nn.BatchNorm1d(64)  # the number of units into this layer
         self.hiddenLayer1 =  nn.Linear(64, 32)
+        self.bnorm2 = nn.BatchNorm1d(32)
         self.hiddenLayer2 =  nn.Linear(32, 16)
         self.outputLayer =  nn.Linear(16, 7)
 
+        self.batchNorm = batchNorm
         self.dr = dropoutRate
+        self.actFun = actFun
+
+        if not hasattr(torch.nn.functional, self.actFun):
+            raise ValueError(f"Activation function '{self.actFun}' not found in torch.nn.functional")
 
     # forward pass
     def forward(self, x):
+        # get activation function type
+        # this code replaces torch.relu with torch.<self.actfun>
+        actfun = getattr(torch.nn.functional, self.actFun)
         # input
-        x = F.relu(self.inputLayer(x))
+        x = actfun(self.inputLayer(x))
         x = F.dropout(x, p=self.dr, training=self.training)  # switches dropout off during .eval()
-
-        # hidden1
-        x = F.relu(self.hiddenLayer1(x))
-        x = F.dropout(x, p=self.dr, training=self.training)
-
-        # hidden2
-        x = F.relu(self.hiddenLayer2(x))
-        x = F.dropout(x, p=self.dr, training=self.training)
+        if self.batchNorm:
+            # hidden1
+            x = self.bnorm1(x)
+            x = actfun(self.hiddenLayer1(x))
+            # hidden2
+            x = self.bnorm2(x)
+            x = actfun(self.hiddenLayer2(x))
+        else:
+            # hidden1
+            x = actfun(self.hiddenLayer1(x))
+            x = F.dropout(x, p=self.dr, training=self.training)
+            # hidden2
+            x = actfun(self.hiddenLayer2(x))
+            x = F.dropout(x, p=self.dr, training=self.training)
 
         x = self.outputLayer(x)
 

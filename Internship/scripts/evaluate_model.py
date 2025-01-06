@@ -36,7 +36,7 @@ def main():
     _, _, test_loader = data_manager.get_loaders()
 
     # Loading the trained model
-    model = PetMatchingModel(DROPOUT_RATE).to(DEVICE)
+    model = PetMatchingModel(DROPOUT_RATE,True).to(DEVICE)
     model = load_model(model, MODEL_SAVE_PATH, DEVICE)
 
     # Evaluation

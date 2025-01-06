@@ -1,2 +1,9 @@
 scripts/train_model.py
 src/train.py
+scripts/best_activation.py
+CNN/Dataset_prep/upload_to_GCB.py
+CNN/src/main.py
+CNN/src/train.py
+CNN/CNN_models
+venv
+pytorch-gpu

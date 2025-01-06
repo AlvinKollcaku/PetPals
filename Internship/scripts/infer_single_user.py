@@ -31,7 +31,7 @@ def infer(user_attributes):
     user_attributes = torch.tensor(user_attributes, dtype=torch.float32).to(DEVICE)
 
     # Loading model
-    model = PetMatchingModel(DROPOUT_RATE).to(DEVICE)
+    model = PetMatchingModel(DROPOUT_RATE,True).to(DEVICE)
     model = load_model(model, MODEL_SAVE_PATH, DEVICE)
 
     # Performing inference

@@ -24,10 +24,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 # Configuration for training
 import torch
 
-# Paths
-TRAIN_DATA_PATH = "data/train.csv"
-VAL_DATA_PATH = "data/val.csv"
-MODEL_SAVE_PATH = "C:\\Users\\alvin\\OneDrive\\Desktop\\PetPals\\Internship\\pet_matching_model.pth"
+MODEL_SAVE_PATH = "C:\\Users\\alvin\\OneDrive\\Desktop\\PetPals\\Internship\\ANN_models\\pet_matching_model4.pth"
 
 # Hyperparameters
 BATCH_SIZE = 16
